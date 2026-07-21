@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋 I'm Siva Prakash
 
-<!--
-**sivaprakashtech/sivaprakashtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 QA Engineer @ Amazon
 
-Here are some ideas to get you started:
+I'm passionate about building high-quality software and solving real-world problems through testing, automation, and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+
+- 🧪 Manual Testing
+- 🌐 Web Development
+- 🐍 Python Development
+- 🎨 Logo Design
+- 📡 Networking & Wi-Fi Testing
+- 🐞 Bug Investigation & Test Case Design
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- SQLite
+- Git & GitHub
+
+---
+
+## 🌟 Featured Project
+
+### TestVault – Enterprise QA Test Management System
+
+✔ Authentication
+
+✔ Project Management
+
+✔ Test Case Management
+
+✔ Execution Tracking
+
+✔ Bug Management
+
+✔ Reports & Analytics
+
+---
+
+## 🎯 Current Goal
+
+Learning Automation Testing and building enterprise-level QA tools.
+
+---
+
+## 📫 Connect with Me
+
+GitHub:
+https://github.com/sivaprakashtech

@@ -1,76 +1,89 @@
-<h1 align="center">Hi 👋, I'm Siva Prakash</h1>
+<h1 align="center">Hi 👋 I'm Siva Prakash</h1>
 
 <h3 align="center">
-QA Engineer • Manual Testing • React Developer • Python Enthusiast
+QA Engineer • Manual Tester • React Developer • Python Learner
 </h3>
 
 <p align="center">
-Building modern web applications, QA tools and continuously learning new technologies 🚀
+Building modern web applications, enterprise QA systems, and continuously learning new technologies 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=QA+Engineer;React+Developer;Python+Learner;Frontend+Developer;Building+Awesome+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=QA+Engineer;Manual+Testing+Specialist;React+Developer;Python+Learner;Future+SDET;Open+Source+Enthusiast" />
+</p>
+
+<p align="center">
+<a href="https://github.com/sivaprakashtech">
+<img src="https://komarev.com/ghpvc/?username=sivaprakashtech&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💼 QA Engineer
-- 🧪 Passionate about Software Testing
-- 🌐 Frontend Developer
-- ⚛️ Building projects using React + Vite + Tailwind CSS
-- 🐍 Learning Python & Automation Testing
-- 🎯 Goal: Become an SDET / Full Stack Developer
-- 🇮🇳 Based in India
+- 💼 QA Engineer with hands-on Manual Testing experience
+- 🧪 Building enterprise-style QA tools and dashboards
+- ⚛️ React + Vite + Tailwind CSS Developer
+- 🐍 Learning Python, Flask & Test Automation
+- 🌱 Improving GitHub every day with real projects
+- 🎯 Goal: Become an SDET and Full Stack Developer
 
 ---
 
-# 🌟 Featured Projects
+# 💼 Featured Projects
 
 ## 🚀 LogoHub – Brand Identity Platform
 
-A premium React + Vite application for exploring professional logo designs.
+Professional logo discovery platform built using React + Vite.
 
-### Features
-
-- Dashboard
-- Collections
-- Brand Kit
-- Designer Profiles
-- Favorites
-- Search & Filters
-- Analytics
-- Responsive UI
-- Dark Mode
-- PWA
-
-🔗 GitHub
-
-https://github.com/sivaprakashtech/logohub-brand-platform
-
-🌐 Live Demo
-
+🌐 Live Demo  
 https://logohub-brand-platform.vercel.app
+
+💻 GitHub  
+https://github.com/sivaprakashtech/logohub-brand-platform
 
 ---
 
 ## 🧪 TestVault – Enterprise QA Test Management System
 
-- Authentication
-- Project Management
-- Test Cases
-- Bug Tracking
-- Reports
-- Analytics
+Enterprise QA management platform built with Flask & SQLite.
+
+🌐 Live Demo  
+https://testvault-02i7.onrender.com
+
+💻 GitHub  
+https://github.com/sivaprakashtech/TestVault
 
 ---
 
-# 💻 Tech Stack
+## 🍽️ DineFlow – Restaurant Management System
+
+Modern restaurant management application with Flask.
+
+🌐 Live Demo  
+https://dineflow-823v.onrender.com
+
+💻 GitHub  
+https://github.com/sivaprakashtech/DineFlow
+
+---
+
+## 🐞 BugTracker Pro – Enterprise Bug Tracking System
+
+Modern bug tracking application with analytics and role-based access.
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/BugTracker-Pro
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,python,flask,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,python,flask,nodejs,express,mongodb,sqlite,git,github,vscode"/>
 
 </p>
 
@@ -108,6 +121,16 @@ https://logohub-brand-platform.vercel.app
 
 ---
 
+# 📌 Currently Working On
+
+- 🚀 Advanced React Projects
+- 🧪 QA Automation Learning
+- 🐍 Python & Flask Development
+- 📚 Daily Tech Learning
+- 💻 Open Source Portfolio
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -116,8 +139,9 @@ https://logohub-brand-platform.vercel.app
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<!-- Replace this with your actual LinkedIn URL -->
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -126,6 +150,6 @@ https://logohub-brand-platform.vercel.app
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ If you like my projects, consider giving them a Star! ⭐
 
 </p>

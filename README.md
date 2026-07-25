@@ -139,9 +139,12 @@ https://github.com/sivaprakashtech/BugTracker-Pro
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace this with your actual LinkedIn URL -->
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/siva-prakash-p-8787992b1">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://wa.me/918925197800">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>

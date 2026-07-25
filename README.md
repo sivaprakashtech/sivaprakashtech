@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Siva Prakash</h1>
 
 <h3 align="center">
-QA Engineer • Manual Tester • React Developer • Python Learner
+QA Engineer • Freelance Full Stack Developer • QA Automation Enthusiast • React • Python
 </h3>
 
 <p align="center">

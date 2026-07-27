@@ -33,6 +33,30 @@ Building modern web applications, enterprise QA systems, and continuously learni
 
 # 💼 Featured Projects
 
+## 🚀 DevForge – Ultimate Developer Toolkit ⭐
+
+Modern all-in-one developer toolkit featuring JSON Studio, Markdown Studio, Code Playground, Regex Tester, API Playground, Image Tools, Color Studio and more.
+
+🌐 Live Demo  
+https://dev-forge-drab.vercel.app/
+
+💻 GitHub  
+https://github.com/sivaprakashtech/DevForge
+
+---
+
+## 🤖 ResumeAI Pro – AI Resume Builder
+
+Modern AI-powered resume builder with ATS-friendly templates.
+
+🌐 Live Demo  
+https://resumeai-pro-six.vercel.app
+
+💻 GitHub  
+https://github.com/sivaprakashtech/resumeai-pro
+
+---
+
 ## 🚀 LogoHub – Brand Identity Platform
 
 Professional logo discovery platform built using React + Vite.
@@ -73,12 +97,8 @@ https://github.com/sivaprakashtech/DineFlow
 
 Modern bug tracking application with analytics and role-based access.
 
-💻 GitHub
-
+💻 GitHub  
 https://github.com/sivaprakashtech/BugTracker-Pro
-
----
-
 # 🛠️ Tech Stack
 
 <p align="center">

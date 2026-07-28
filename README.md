@@ -33,7 +33,19 @@ Building modern web applications, enterprise QA systems, and continuously learni
 
 # 💼 Featured Projects
 
-## 🚀 DevForge – Ultimate Developer Toolkit ⭐
+## 🛍️ ShopFlow Pro – Enterprise Multi-Vendor E-Commerce Platform ⭐
+
+Production-ready enterprise e-commerce platform built with Flask featuring Multi-Vendor Marketplace, Admin Dashboard, Analytics, AI Recommendations, Authentication, Docker support and live deployment.
+
+🌐 Live Demo  
+https://shopflow-pro.onrender.com
+
+💻 GitHub  
+https://github.com/sivaprakashtech/ShopFlow-Pro
+
+---
+
+## 🚀 DevForge – Ultimate Developer Toolkit
 
 Modern all-in-one developer toolkit featuring JSON Studio, Markdown Studio, Code Playground, Regex Tester, API Playground, Image Tools, Color Studio and more.
 
@@ -99,7 +111,6 @@ Modern bug tracking application with analytics and role-based access.
 
 💻 GitHub  
 https://github.com/sivaprakashtech/BugTracker-Pro
-# 🛠️ Tech Stack
 
 <p align="center">
 

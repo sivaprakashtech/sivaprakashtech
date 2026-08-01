@@ -66,7 +66,7 @@ GitHub • Render • Vercel
 ### 👨‍💻 Current Focus
 
 - 🔍 Manual Testing & Functional Testing
-- 🧪 QA Automation Learning
+- 🧪 Learning Playwright & Python Automation
 - ⚛️ React + TypeScript + Vite
 - 🐍 Python + Flask Backend Development
 - 🌐 REST API Development & Integration
@@ -78,7 +78,7 @@ GitHub • Render • Vercel
 
 # 💼 Professional Summary
 
-| QA | Development |
+| # 💼 Technical Expertise |
 |----|-------------|
 | Manual Testing | React |
 | Regression Testing | TypeScript |

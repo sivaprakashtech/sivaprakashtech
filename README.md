@@ -162,7 +162,7 @@ GitHub • Render • Vercel
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind,python,flask,nodejs,express,mongodb,mysql,sqlite,git,github,postman,vscode,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind,python,flask,mysql,sqlite,git,github,postman,vscode"/>
 
 </p>
 

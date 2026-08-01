@@ -680,16 +680,6 @@ Every star motivates me to build even better projects.
 
 ---
 
-# 📜 Favourite Quote
-
-<p align="center">
-
-> **"Success isn't about never failing. It's about never giving up."**
-
-</p>
-
----
-
 # 🏅 Developer Badges
 
 <p align="center">

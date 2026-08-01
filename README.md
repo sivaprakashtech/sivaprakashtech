@@ -599,22 +599,6 @@ Automation Testing       ███████████░░░░░░░�
 
 ---
 
-# ❤️ Support My Work
-
-If you like my projects, please consider:
-
-⭐ Starring my repositories
-
-🍴 Forking my projects
-
-📢 Sharing them with others
-
-🤝 Connecting with me on LinkedIn
-
-Every star motivates me to build even better projects.
-
----
-
 # 📜 Favourite Quote
 
 <p align="center">
@@ -677,30 +661,6 @@ Every star motivates me to build even better projects.
 
 ---
 
-# 🏅 Developer Badges
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/QA%20Engineer-Professional-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Manual%20Testing-Expert-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
-
-<img src="https://img.shields.io/badge/REST%20API-Developer-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Future-SDET-red?style=for-the-badge"/>
-
-</p>
-
----
-
 # 🏆 Career Highlights
 
 🏢 QA Engineer with real-world enterprise testing experience
@@ -723,30 +683,6 @@ Every star motivates me to build even better projects.
 
 ---
 
-# 📚 Tech Ecosystem
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Backend-Flask-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Database-SQLite-green?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/API-REST-success?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Deployment-Render-purple?style=flat-square"/>
-
-</p>
-
----
-
 # 📦 Featured Technologies
 
 | Category | Technologies |
@@ -758,36 +694,6 @@ Every star motivates me to build even better projects.
 | Deployment | Vercel, Render |
 | Version Control | Git, GitHub |
 | Tools | VS Code, Postman, Chrome DevTools |
-
----
-
-# 💼 What I Build
-
-🚀 Enterprise Web Applications
-
-📶 Network Monitoring Systems
-
-📊 Analytics Dashboards
-
-🧪 QA Management Platforms
-
-🏥 Healthcare Systems
-
-🛍️ E-Commerce Platforms
-
-👨‍💼 Employee Management Systems
-
-🤖 AI Powered Applications
-
-🍽️ Restaurant Management Systems
-
-🎨 Branding Platforms
-
----
-
-# 🌍 My Mission
-
-> Build enterprise-grade software that solves real-world problems while continuously improving my software engineering and QA skills.
 
 ---
 
@@ -833,15 +739,6 @@ Every star motivates me to build even better projects.
 </p>
 
 ---
-
-# 🎯 Career Objective
-
-> My mission is to build enterprise-grade software that creates real business value while continuously growing as a Software Engineer and QA Professional.
-
-I'm passionate about solving real-world problems through clean architecture, scalable applications, and high-quality software engineering practices.
-
----
-
 # 🤝 Let's Build Together
 
 I'm always excited to collaborate on:
@@ -896,17 +793,6 @@ If you like my projects,
 </p>
 
 ---
-
-# 💙 Favorite Quote
-
-<p align="center">
-
-> "Great software is built with curiosity, consistency, and continuous learning."
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=35&animation=fadeIn"/>

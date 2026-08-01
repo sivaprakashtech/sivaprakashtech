@@ -1036,3 +1036,106 @@ https://github.com/sivaprakashtech
 </p>
 
 ---
+
+---
+
+# 💼 Open To Opportunities
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20To-Full%20Time-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Freelance-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Open%20Source-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎯 Career Objective
+
+> My mission is to build enterprise-grade software that creates real business value while continuously growing as a Software Engineer and QA Professional.
+
+I'm passionate about solving real-world problems through clean architecture, scalable applications, and high-quality software engineering practices.
+
+---
+
+# 🤝 Let's Build Together
+
+I'm always excited to collaborate on:
+
+- 🚀 Enterprise Software
+- ⚛️ React Applications
+- 🐍 Python & Flask Projects
+- 🧪 QA Engineering
+- 🤖 Automation Testing
+- 🌐 REST APIs
+- 📊 Analytics Dashboards
+- 💻 Open Source Projects
+
+---
+
+# 📬 Contact Information
+
+📧 **Email**
+
+**sivasj0225@gmail.com**
+
+---
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/siva-prakash-p-8787992b1
+
+---
+
+🐙 **GitHub**
+
+https://github.com/sivaprakashtech
+
+---
+
+# ❤️ Thank You
+
+<p align="center">
+
+Thank you for visiting my GitHub Profile.
+
+I truly appreciate your time.
+
+If you like my projects,
+
+⭐ Consider giving them a Star.
+
+🤝 Let's Connect.
+
+🚀 Let's Build Something Amazing Together.
+
+</p>
+
+---
+
+# 💙 Favorite Quote
+
+<p align="center">
+
+> "Great software is built with curiosity, consistency, and continuous learning."
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
+
+</p>
+
+<p align="center">
+
+⭐ From <b>Siva Prakash</b> with ❤️
+
+</p>

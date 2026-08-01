@@ -413,7 +413,7 @@ https://github.com/sivaprakashtech/DineFlow
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sivaprakashtech&theme=tokyonight&row=2&column=4&margin-w=20&margin-h=20"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sivaprakashtech&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -423,12 +423,11 @@ https://github.com/sivaprakashtech/DineFlow
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sivaprakashtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivaprakashtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakashtech&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakashtech&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak

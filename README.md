@@ -2,11 +2,9 @@
 Hi 👋 I'm Siva Prakash
 </h1>
 <h3 align="center">
-QA Engineer • Full Stack Developer • Manual Testing Specialist • React • TypeScript • Python • Flask • REST APIs • Aspiring Software Development Engineer in Test (SDET)
-</h3>
+QA Engineer • Full Stack Developer • Manual Testing Specialist • React • TypeScript • Python • Flask • REST API Developer • Network Diagnostics • Enterprise Application Developer • Aspiring SDET </h3>
 <p align="center">
-Building Enterprise Software • QA Platforms • Full Stack Applications • Network Monitoring Systems • Open Source Projects 🚀
-</p>
+Building Enterprise Software • QA Platforms • Full Stack Applications • Network Monitoring Systems • Analytics Dashboards • AI-Powered Solutions • Open Source Projects 🚀</p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=QA+Engineer;Manual+Testing+Specialist;React+Developer;TypeScript+Developer;Python+Flask+Developer;Flask+Backend+Developer;REST+API+Developer;Enterprise+Application+Builder;QA+Automation+Learner;Future+SDET;Open+Source+Contributor"/>
 </p>
@@ -39,7 +37,7 @@ Building Enterprise Software • QA Platforms • Full Stack Applications • Ne
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I'm a passionate **QA Engineer** and **Freelance Full Stack Developer** who enjoys building enterprise-grade software, modern web applications, analytics dashboards and QA platforms.
+💼 Currently working as a QA Engineer with hands-on experience in enterprise networking products, manual testing, API validation, and modern full-stack application development.
 
 I love transforming ideas into scalable applications using modern technologies while continuously improving my testing and software engineering skills.
 

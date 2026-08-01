@@ -211,3 +211,231 @@ I love transforming ideas into scalable applications using modern technologies w
 - 🚀 Advanced React Patterns
 
 ---
+
+# 💼 Featured Enterprise Projects
+
+---
+
+# 📶 WiFi Analyzer Pro ⭐⭐⭐⭐⭐
+
+### Enterprise WiFi Monitoring & Network Diagnostics Platform
+
+Professional enterprise-grade WiFi monitoring platform built using **React, Flask and Python** featuring real-time analytics, signal analysis, speed testing, network diagnostics and reporting.
+
+### 🚀 Features
+
+- 📡 WiFi Scanner
+- 📶 Signal Analyzer
+- ⚡ Internet Speed Test
+- 🌐 Network Diagnostics
+- 📊 Analytics Dashboard
+- 📈 Real-Time Charts
+- 📑 Reports Module
+- ⚙️ Settings Management
+
+### 🛠️ Tech Stack
+
+React • Flask • Python • SQLite • REST API • Vite • Tailwind CSS
+
+🌐 **Live Demo**
+
+https://wi-fi-analyzer-pro.vercel.app
+
+💻 **GitHub**
+
+https://github.com/sivaprakashtech/WiFi-Analyzer-Pro
+
+---
+
+# 🛒 ShopFlow Pro ⭐⭐⭐⭐⭐
+
+### Enterprise Multi Vendor E-Commerce Platform
+
+Modern enterprise commerce platform supporting multiple vendors, dashboards, authentication, analytics and inventory management.
+
+### 🚀 Features
+
+- Multi Vendor Marketplace
+- Authentication
+- Admin Dashboard
+- Product Management
+- Analytics
+- Orders
+- Reports
+
+### 🛠️ Tech Stack
+
+Python • Flask • SQLite • HTML • CSS • JavaScript
+
+🌐 Live Demo
+
+https://shopflow-pro.onrender.com
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/ShopFlow-Pro
+
+---
+
+# 🚀 DevForge ⭐⭐⭐⭐⭐
+
+### Ultimate Developer Toolkit
+
+Complete developer productivity suite containing multiple professional developer tools.
+
+### 🚀 Features
+
+- JSON Formatter
+- Markdown Studio
+- Regex Tester
+- API Playground
+- Image Tools
+- Color Studio
+- Code Playground
+
+### 🛠️ Tech Stack
+
+React • TypeScript • Vite • Tailwind CSS
+
+🌐 Live Demo
+
+https://dev-forge-drab.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/DevForge
+
+---
+
+# 🏥 MediFlow Hospital Management System ⭐⭐⭐⭐
+
+### Enterprise Healthcare Management Platform
+
+Modern hospital management software with patient management, appointments, billing and healthcare dashboards.
+
+### 🚀 Features
+
+- Patient Management
+- Doctors
+- Billing
+- Dashboard
+- Reports
+- Analytics
+
+### 🛠️ Tech Stack
+
+React • TypeScript • Vite • Tailwind CSS
+
+🌐 Live Demo
+
+https://medi-flow-hospital-management-system.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/MediFlow-Hospital-Management-System
+
+---
+
+# 👨‍💼 Smart Attendance System ⭐⭐⭐⭐
+
+### Enterprise Employee Attendance Platform
+
+Professional attendance management system for tracking employees and attendance records.
+
+### 🚀 Features
+
+- Employee Dashboard
+- Attendance Tracking
+- Reports
+- Analytics
+- Admin Panel
+
+### 🛠️ Tech Stack
+
+React • TypeScript • Vite • Tailwind CSS
+
+🌐 Live Demo
+
+https://smart-attendance-system-red.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/Smart-Attendance-System
+
+---
+
+# 🤖 ResumeAI Pro ⭐⭐⭐⭐
+
+### AI Powered Resume Builder
+
+Professional ATS Resume Builder powered by AI.
+
+🌐 Live Demo
+
+https://resumeai-pro-six.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/resumeai-pro
+
+---
+
+# 🧪 TestVault ⭐⭐⭐⭐
+
+### Enterprise QA Test Management Platform
+
+Professional QA Management System for handling test cases, executions and reports.
+
+🌐 Live Demo
+
+https://testvault-02i7.onrender.com
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/TestVault
+
+---
+
+# 🐞 BugTracker Pro ⭐⭐⭐⭐
+
+### Enterprise Bug Tracking Platform
+
+Modern issue tracking platform with analytics and role-based access.
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/BugTracker-Pro
+
+---
+
+# 🎨 LogoHub ⭐⭐⭐
+
+### Brand Identity Platform
+
+Modern logo discovery and branding platform.
+
+🌐 Live Demo
+
+https://logohub-brand-platform.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/logohub-brand-platform
+
+---
+
+# 🍽️ DineFlow ⭐⭐⭐
+
+### Restaurant Management System
+
+Professional restaurant management application.
+
+🌐 Live Demo
+
+https://dineflow-823v.onrender.com
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/DineFlow
+
+---

@@ -15,7 +15,6 @@ Building Enterprise Software • QA Platforms • Full Stack Applications • Ne
 <img src="https://komarev.com/ghpvc/?username=sivaprakashtech&label=Profile+Views&color=0e75b6&style=flat"/>
 </a>
 <img src="https://img.shields.io/github/followers/sivaprakashtech?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/sivaprakashtech?affiliations=OWNER&style=social"/>
 </p>
 
 <p align="center">

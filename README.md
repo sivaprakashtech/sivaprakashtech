@@ -713,3 +713,144 @@ If you enjoyed my work, don't forget to ⭐ my repositories.
 Let's build something amazing together! 🚀
 
 </p>
+
+# 💬 Ask Me About
+
+```text
+🧪 Manual Testing
+⚛️ React Development
+🐍 Python & Flask
+🌐 REST APIs
+💻 Full Stack Development
+📊 Enterprise Dashboards
+🚀 Git & GitHub
+🎨 Modern UI Design
+☁️ Vercel & Render Deployment
+```
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sivaprakashtech">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/siva-prakash-p-8787992b1">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://wa.me/918925197800">
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Facts
+
+- 🚀 I enjoy building enterprise-grade software.
+- 🧪 QA Engineering is my passion.
+- 🌐 I love creating production-ready web applications.
+- 📚 I continuously learn new technologies.
+- 🤝 I enjoy collaborating on Open Source projects.
+- ⚡ I believe in writing clean, scalable and maintainable code.
+- 🎯 My goal is to become an Enterprise Software Engineer & SDET.
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects, please consider:
+
+⭐ Starring my repositories
+
+🍴 Forking my projects
+
+📢 Sharing them with others
+
+🤝 Connecting with me on LinkedIn
+
+Every star motivates me to build even better projects.
+
+---
+
+# 📜 Favourite Quote
+
+<p align="center">
+
+> **"Success isn't about never failing. It's about never giving up."**
+
+</p>
+
+---
+
+# 📂 Open Source Projects
+
+| Project | Stack | Live |
+|----------|-------|------|
+| 📶 WiFi Analyzer Pro | React • Flask • Python | ✅ |
+| 🛒 ShopFlow Pro | Flask | ✅ |
+| 🚀 DevForge | React | ✅ |
+| 🏥 MediFlow | React | ✅ |
+| 👨‍💼 Smart Attendance | React | ✅ |
+| 🤖 ResumeAI Pro | React | ✅ |
+| 🧪 TestVault | Flask | ✅ |
+| 🐞 BugTracker Pro | Flask | GitHub |
+| 🎨 LogoHub | React | ✅ |
+| 🍽️ DineFlow | Flask | ✅ |
+
+---
+
+# 📈 Profile Summary
+
+```text
+💼 QA Engineer
+
+💻 Full Stack Developer
+
+🧪 Manual Testing Specialist
+
+⚛️ React Developer
+
+🐍 Python Developer
+
+🌐 REST API Developer
+
+🚀 Open Source Contributor
+
+🎯 Future SDET
+```
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0066FF&height=150&section=footer"/>
+
+</p>
+
+<p align="center">
+
+⭐ Thank you for visiting my GitHub Profile ⭐
+
+If you enjoyed my work, don't forget to ⭐ my repositories.
+
+Let's build something amazing together! 🚀
+
+</p>

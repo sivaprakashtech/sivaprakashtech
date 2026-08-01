@@ -665,25 +665,6 @@ Every star motivates me to build even better projects.
 
 🎯 Future SDET
 ```
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0066FF&height=150&section=footer"/>
-
-</p>
-
-<p align="center">
-
-⭐ Thank you for visiting my GitHub Profile ⭐
-
-If you enjoyed my work, don't forget to ⭐ my repositories.
-
-Let's build something amazing together! 🚀
-
-</p>
-
 # 💬 Ask Me About
 
 ```text
@@ -732,16 +713,6 @@ Let's build something amazing together! 🚀
 
 ---
 
-# 💡 Fun Facts
-
-- 🚀 I enjoy building enterprise-grade software.
-- 🧪 QA Engineering is my passion.
-- 🌐 I love creating production-ready web applications.
-- 📚 I continuously learn new technologies.
-- 🤝 I enjoy collaborating on Open Source projects.
-- ⚡ I believe in writing clean, scalable and maintainable code.
-- 🎯 My goal is to become an Enterprise Software Engineer & SDET.
-
 ---
 
 # ❤️ Support My Work
@@ -787,57 +758,6 @@ Every star motivates me to build even better projects.
 
 ---
 
-# 📈 Profile Summary
-
-```text
-💼 QA Engineer
-
-💻 Full Stack Developer
-
-🧪 Manual Testing Specialist
-
-⚛️ React Developer
-
-🐍 Python Developer
-
-🌐 REST API Developer
-
-🚀 Open Source Contributor
-
-🎯 Future SDET
-```
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0066FF&height=150&section=footer"/>
-
-</p>
-
-<p align="center">
-
-⭐ Thank you for visiting my GitHub Profile ⭐
-
-If you enjoyed my work, don't forget to ⭐ my repositories.
-
-Let's build something amazing together! 🚀
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sivaprakashtech/sivaprakashtech/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **⚠️ Note:** This snake animation will work only after setting up a GitHub Action. We'll configure it later.
-
----
 
 # 🏅 Developer Badges
 

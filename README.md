@@ -8,7 +8,7 @@ QA Engineer • Full Stack Developer • Manual Testing Specialist • React •
 Building Enterprise Software • QA Platforms • Full Stack Applications • Network Monitoring Systems • Open Source Projects 🚀
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=QA+Engineer;Manual+Testing+Specialist;React+Developer;TypeScript+Developer;Python & Flask Developer;Flask+Backend+Developer;REST+API+Developer;Enterprise+Application+Builder;QA+Automation+Learner;Future+SDET;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=QA+Engineer;Manual+Testing+Specialist;React+Developer;TypeScript+Developer;Python+Flask+Developer;Flask+Backend+Developer;REST+API+Developer;Enterprise+Application+Builder;QA+Automation+Learner;Future+SDET;Open+Source+Contributor"/>
 </p>
 <p align="center">
 <a href="https://github.com/sivaprakashtech">

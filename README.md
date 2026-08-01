@@ -439,3 +439,136 @@ https://dineflow-823v.onrender.com
 https://github.com/sivaprakashtech/DineFlow
 
 ---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sivaprakashtech&theme=tokyonight&row=2&column=4&margin-w=20&margin-h=20"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sivaprakashtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakashtech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sivaprakashtech&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprakashtech&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivaprakashtech&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivaprakashtech&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivaprakashtech&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivaprakashtech&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00C2FF/sivaprakashtech" alt="GitHub Contribution Calendar"/>
+
+</p>
+
+---
+
+# 🚀 Development Activity
+
+```text
+🌱 Learning Every Day
+
+███████████████████████████░░░░ 90%
+
+React Development        ████████████████████ 95%
+
+Python Development       █████████████████░░ 85%
+
+Flask Backend            ████████████████░░░ 80%
+
+Manual Testing           ███████████████████ 95%
+
+REST APIs                █████████████████░░ 85%
+
+SQL                      ███████████████░░░░ 75%
+
+Git & GitHub             ███████████████████ 90%
+
+Automation Testing       ███████████░░░░░░░░ 60%
+```
+
+---
+
+# 📌 Current Focus
+
+### 🚀 Building
+
+- Enterprise Full Stack Applications
+- QA Management Platforms
+- Analytics Dashboards
+- Business Management Systems
+- Network Monitoring Applications
+
+### 📖 Learning
+
+- Playwright Automation
+- Advanced Python
+- TypeScript
+- System Design
+- Clean Architecture
+- Docker
+- CI/CD
+- Cloud Deployment
+
+### 🎯 2026 Goals
+
+- ✅ Become an SDET
+- ✅ Build 25+ Production Projects
+- ✅ Contribute to Open Source
+- ✅ Master React Ecosystem
+- ✅ Master Flask Backend
+- ✅ Learn Playwright
+- ✅ Learn Docker
+- ✅ Learn Kubernetes
+- ✅ Crack Top Product Companies
+
+---

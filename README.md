@@ -605,7 +605,7 @@ Automation Testing       ███████████░░░░░░░�
 
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sivasj0225@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
@@ -854,3 +854,185 @@ If you enjoyed my work, don't forget to ⭐ my repositories.
 Let's build something amazing together! 🚀
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sivaprakashtech/sivaprakashtech/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **⚠️ Note:** This snake animation will work only after setting up a GitHub Action. We'll configure it later.
+
+---
+
+# 🏅 Developer Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/QA%20Engineer-Professional-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Manual%20Testing-Expert-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/REST%20API-Developer-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Future-SDET-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏆 Career Highlights
+
+🏢 QA Engineer with real-world enterprise testing experience
+
+💻 Built **10+ Production Ready Applications**
+
+🚀 Multiple Full Stack Applications deployed on **Render** & **Vercel**
+
+🧪 Experience in Manual Testing & QA Processes
+
+📡 Built Enterprise Network Monitoring Platform
+
+⚛️ Strong knowledge in React Ecosystem
+
+🐍 Backend Development using Flask
+
+🌍 Passionate Open Source Developer
+
+📈 Continuously improving through hands-on projects
+
+---
+
+# 📚 Tech Ecosystem
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Backend-Flask-black?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Database-SQLite-green?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/API-REST-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Deployment-Render-purple?style=flat-square"/>
+
+</p>
+
+---
+
+# 📦 Featured Technologies
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | HTML5, CSS3, JavaScript, TypeScript, React, Vite, Tailwind CSS |
+| Backend | Python, Flask, REST APIs |
+| Database | SQLite, SQL |
+| QA | Manual Testing, Functional Testing, Regression Testing, Smoke Testing, API Testing |
+| Deployment | Vercel, Render |
+| Version Control | Git, GitHub |
+| Tools | VS Code, Postman, Chrome DevTools |
+
+---
+
+# 💼 What I Build
+
+🚀 Enterprise Web Applications
+
+📶 Network Monitoring Systems
+
+📊 Analytics Dashboards
+
+🧪 QA Management Platforms
+
+🏥 Healthcare Systems
+
+🛍️ E-Commerce Platforms
+
+👨‍💼 Employee Management Systems
+
+🤖 AI Powered Applications
+
+🍽️ Restaurant Management Systems
+
+🎨 Branding Platforms
+
+---
+
+# 🌍 My Mission
+
+> Build enterprise-grade software that solves real-world problems while continuously improving my software engineering and QA skills.
+
+---
+
+# 🤝 Open To
+
+✅ Freelance Projects
+
+✅ Full Stack Development
+
+✅ React Applications
+
+✅ Python Development
+
+✅ QA Engineering
+
+✅ Software Testing
+
+✅ Enterprise Dashboard Development
+
+✅ Open Source Collaboration
+
+---
+
+# 📬 Contact
+
+📧 Email
+
+**sivasj0225@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/siva-prakash-p-8787992b1
+
+🐙 GitHub
+
+https://github.com/sivaprakashtech
+
+---
+
+# ⭐ Favorite Tech Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sivaprakashtech&style=for-the-badge&color=blue"/>
+
+</p>
+
+---

@@ -38,11 +38,33 @@ Building Enterprise Software • QA Platforms • Full Stack Applications • Ne
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 I'm a passionate **QA Engineer** and **Freelance Full Stack Developer** who enjoys building enterprise-grade software, modern web applications, analytics dashboards and QA platforms.
 
 I love transforming ideas into scalable applications using modern technologies while continuously improving my testing and software engineering skills.
+
+# 🏢 Current Tech Stack
+
+### Frontend
+
+React • TypeScript • Vite • Tailwind CSS
+
+### Backend
+
+Python • Flask • REST APIs
+
+### QA
+
+Manual Testing • API Testing • Regression Testing
+
+### Database
+
+SQLite • SQL
+
+### Deployment
+
+GitHub • Render • Vercel
 
 ### 👨‍💻 Current Focus
 
@@ -59,48 +81,14 @@ I love transforming ideas into scalable applications using modern technologies w
 
 # 💼 Professional Summary
 
-✔️ QA Engineer
-
-✔️ Manual Testing Specialist
-
-✔️ Functional Testing
-
-✔️ Regression Testing
-
-✔️ Smoke Testing
-
-✔️ API Testing
-
-✔️ Bug Reporting
-
-✔️ Test Case Design
-
-✔️ React Developer
-
-✔️ TypeScript Developer
-
-✔️ Python Developer
-
-✔️ Flask Backend Developer
-
-✔️ REST API Developer
-
-✔️ SQL & SQLite
-
-✔️ Git & GitHub
-
-✔️ Vite
-
-✔️ Tailwind CSS
-
-✔️ Responsive UI Design
-
-✔️ Deployment using Vercel & Render
-
-✔️ Enterprise Application Development
-
-✔️ Open Source Contributor
-
+| QA | Development |
+|----|-------------|
+| Manual Testing | React |
+| Regression Testing | TypeScript |
+| Smoke Testing | Python |
+| API Testing | Flask |
+| Bug Reporting | REST APIs |
+| Test Case Design | SQL |
 ---
 
 # 🧠 Core Skills

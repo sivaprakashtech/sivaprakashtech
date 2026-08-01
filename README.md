@@ -2,7 +2,7 @@
 Hi 👋 I'm Siva Prakash
 </h1>
 <h3 align="center">
-QA Engineer • Full Stack Developer • Manual Testing Specialist • React • TypeScript • Python • Flask • REST APIs • Future SDET
+QA Engineer • Full Stack Developer • Manual Testing Specialist • React • TypeScript • Python • Flask • REST APIs • Aspiring Software Development Engineer in Test (SDET)
 </h3>
 <p align="center">
 Building Enterprise Software • QA Platforms • Full Stack Applications • Network Monitoring Systems • Open Source Projects 🚀

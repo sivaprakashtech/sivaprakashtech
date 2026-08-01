@@ -78,7 +78,7 @@ GitHub • Render • Vercel
 
 # 💼 Professional Summary
 
-| # 💼 Technical Expertise |
+| QA | Development |
 |----|-------------|
 | Manual Testing | React |
 | Regression Testing | TypeScript |

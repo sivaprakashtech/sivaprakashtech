@@ -823,23 +823,6 @@ Every star motivates me to build even better projects.
 ✅ Open Source Collaboration
 
 ---
-
-# 📬 Contact
-
-📧 Email
-
-**sivasj0225@gmail.com**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/siva-prakash-p-8787992b1
-
-🐙 GitHub
-
-https://github.com/sivaprakashtech
-
----
-
 # ⭐ Favorite Tech Quote
 
 > "First, solve the problem. Then, write the code."

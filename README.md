@@ -1,439 +1,921 @@
-<div align="center">
+<h1 align="center">
+Hi 👋 I'm Siva Prakash
+</h1>
+<h3 align="center">
+QA Engineer • Full Stack Developer • Manual Testing Specialist • React • TypeScript • Python • Flask • REST API Developer • Network Diagnostics • Enterprise Application Developer • Aspiring SDET </h3>
+<p align="center">
+Building Enterprise Software • QA Platforms • Full Stack Applications • Network Monitoring Systems • Analytics Dashboards • AI-Powered Solutions • Open Source Projects 🚀</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=QA+Engineer;Manual+Testing+Specialist;React+Developer;TypeScript+Developer;Python+Flask+Developer;Flask+Backend+Developer;REST+API+Developer;Enterprise+Application+Builder;QA+Automation+Learner;Future+SDET;Open+Source+Contributor"/>
+</p>
+<p align="center">
+<a href="https://github.com/sivaprakashtech">
+<img src="https://komarev.com/ghpvc/?username=sivaprakashtech&label=Profile+Views&color=0e75b6&style=flat"/>
+</a>
+<img src="https://img.shields.io/github/followers/sivaprakashtech?label=Followers&style=social"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7C3AED&height=220&section=header&text=SIVA%20PRAKASH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=QA%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20SDET%20IN%20PROGRESS&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<p align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=I+BUILD+SOFTWARE.;I+TEST+SOFTWARE.;I+AUTOMATE+SOFTWARE.;I+SOLVE+ENGINEERING+PROBLEMS.;BUILD+%E2%80%A2+TEST+%E2%80%A2+AUTOMATE+%E2%80%A2+SHIP" />
+<img src="https://img.shields.io/badge/QA-Engineer-blueviolet?style=for-the-badge"/>
 
-<br/>
-<br/>
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/TypeScript-Developer-3178C6?style=for-the-badge&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
+
+</p>
+
+🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+💼 Currently working as a QA Engineer with hands-on experience in enterprise networking products, manual testing, API validation, and modern full-stack application development.
+
+I love transforming ideas into scalable applications using modern technologies while continuously improving my testing and software engineering skills.
+
+🏢 Current Tech Stack
+
+Frontend
+
+React • TypeScript • Vite • Tailwind CSS
+
+Backend
+
+Python • Flask • REST APIs
+
+QA
+
+Manual Testing • API Testing • Regression Testing
+
+Database
+
+SQLite • SQL
+
+Deployment
+
+GitHub • Render • Vercel
+
+👨‍💻 Current Focus
+
+🔍 Manual Testing & Functional Testing
+
+🧪 Learning Playwright & Python Automation
+
+⚛️ React + TypeScript + Vite
+
+🐍 Python + Flask Backend Development
+
+🌐 REST API Development & Integration
+
+📊 Enterprise Dashboard Development
+
+🚀 Open Source Projects
+
+💡 Problem Solving & Clean Code
+
+💼 Technical Expertise
+
+QA
+
+Development
+
+Manual Testing
+
+React
+
+Regression Testing
+
+TypeScript
+
+Smoke Testing
+
+Python
+
+API Testing
+
+Flask
+
+Bug Reporting
+
+REST APIs
+
+Test Case Design
+
+SQL
+
+🧠 Core Skills
+
+🧪 QA Engineering
+
+Manual Testing
+
+Functional Testing
+
+Regression Testing
+
+Smoke Testing
+
+Sanity Testing
+
+Exploratory Testing
+
+API Testing
+
+Bug Reporting
+
+Defect Life Cycle
+
+Test Case Design
+
+Test Execution
+
+Test Documentation
+
+⚛️ Frontend Development
+
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+TypeScript
+
+React
+
+React Router
+
+Vite
+
+Tailwind CSS
+
+Responsive UI
+
+Axios
+
+🐍 Backend Development
+
+Python
+
+Flask
+
+REST APIs
+
+SQLite
+
+SQL
+
+JSON
+
+Authentication
+
+CRUD Operations
+
+☁️ Deployment
+
+Git
+
+GitHub
+
+Vercel
+
+Render
+
+🛠️ Tools
+
+VS Code
+
+Postman
+
+GitHub Desktop
+
+Chrome DevTools
+
+npm
+
+Node.js
+
+💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind,python,flask,mysql,sqlite,git,github,postman,vscode"/>
+
+</p>
+
+📚 Currently Learning
+
+🤖 Playwright Automation
+
+🐍 Advanced Python
+
+⚙️ Flask Architecture
+
+📡 REST API Best Practices
+
+🧪 QA Automation Framework Design
+
+📊 System Design Basics
+
+🏗️ Enterprise Application Architecture
+
+☁️ Cloud Deployment
+
+🚀 Advanced React Patterns
+
+💼 Featured Enterprise Projects
+
+📶 WiFi Analyzer Pro ⭐⭐⭐⭐⭐
+
+Enterprise WiFi Monitoring & Network Diagnostics Platform
+
+Professional enterprise-grade WiFi monitoring platform built using React, Flask and Python featuring real-time analytics, signal analysis, speed testing, network diagnostics and reporting.
+
+🚀 Features
+
+📡 WiFi Scanner
+
+📶 Signal Analyzer
+
+⚡ Internet Speed Test
+
+🌐 Network Diagnostics
+
+📊 Analytics Dashboard
+
+📈 Real-Time Charts
+
+📑 Reports Module
+
+⚙️ Settings Management
+
+🛠️ Tech Stack
+
+React • Flask • Python • SQLite • REST API • Vite • Tailwind CSS
+
+🌐 Live Demo
+
+https://wi-fi-analyzer-pro.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/WiFi-Analyzer-Pro
+
+🛒 ShopFlow Pro ⭐⭐⭐⭐⭐
+
+Enterprise Multi Vendor E-Commerce Platform
+
+Modern enterprise commerce platform supporting multiple vendors, dashboards, authentication, analytics and inventory management.
+
+🚀 Features
+
+Multi Vendor Marketplace
+
+Authentication
+
+Admin Dashboard
+
+Product Management
+
+Analytics
+
+Orders
+
+Reports
+
+🛠️ Tech Stack
+
+Python • Flask • SQLite • HTML • CSS • JavaScript
+
+🌐 Live Demo
+
+https://shopflow-pro.onrender.com
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/ShopFlow-Pro
+
+🚀 DevForge ⭐⭐⭐⭐⭐
+
+Ultimate Developer Toolkit
+
+Complete developer productivity suite containing multiple professional developer tools.
+
+🚀 Features
+
+JSON Formatter
+
+Markdown Studio
+
+Regex Tester
+
+API Playground
+
+Image Tools
+
+Color Studio
+
+Code Playground
+
+🛠️ Tech Stack
+
+React • TypeScript • Vite • Tailwind CSS
+
+🌐 Live Demo
+
+https://dev-forge-drab.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/DevForge
+
+🏥 MediFlow Hospital Management System ⭐⭐⭐⭐
+
+Enterprise Healthcare Management Platform
+
+Modern hospital management software with patient management, appointments, billing and healthcare dashboards.
+
+🚀 Features
+
+Patient Management
+
+Doctors
+
+Billing
+
+Dashboard
+
+Reports
+
+Analytics
+
+🛠️ Tech Stack
+
+React • TypeScript • Vite • Tailwind CSS
+
+🌐 Live Demo
+
+https://medi-flow-hospital-management-system.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/MediFlow-Hospital-Management-System
+
+👨‍💼 Smart Attendance System ⭐⭐⭐⭐
+
+Enterprise Employee Attendance Platform
+
+Professional attendance management system for tracking employees and attendance records.
+
+🚀 Features
+
+Employee Dashboard
+
+Attendance Tracking
+
+Reports
+
+Analytics
+
+Admin Panel
+
+🛠️ Tech Stack
+
+React • TypeScript • Vite • Tailwind CSS
+
+🌐 Live Demo
+
+https://smart-attendance-system-red.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/Smart-Attendance-System
+
+🤖 ResumeAI Pro ⭐⭐⭐⭐
+
+AI Powered Resume Builder
+
+Professional ATS Resume Builder powered by AI.
+
+🌐 Live Demo
+
+https://resumeai-pro-six.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/resumeai-pro
+
+🧪 TestVault ⭐⭐⭐⭐
+
+Enterprise QA Test Management Platform
+
+Professional QA Management System for handling test cases, executions and reports.
+
+🌐 Live Demo
+
+https://testvault-02i7.onrender.com
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/TestVault
+
+🐞 BugTracker Pro ⭐⭐⭐⭐
+
+Enterprise Bug Tracking Platform
+
+Modern issue tracking platform with analytics and role-based access.
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/BugTracker-Pro
+
+🎨 LogoHub ⭐⭐⭐
+
+Brand Identity Platform
+
+Modern logo discovery and branding platform.
+
+🌐 Live Demo
+
+https://logohub-brand-platform.vercel.app
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/logohub-brand-platform
+
+🍽️ DineFlow ⭐⭐⭐
+
+Restaurant Management System
+
+Professional restaurant management application.
+
+🌐 Live Demo
+
+https://dineflow-823v.onrender.com
+
+💻 GitHub
+
+https://github.com/sivaprakashtech/DineFlow
+
+🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sivaprakashtech&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivaprakashtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakashtech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+
+🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sivaprakashtech&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprakashtech&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivaprakashtech&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivaprakashtech&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivaprakashtech&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivaprakashtech&theme=tokyonight"/>
+
+</p>
+
+📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00C2FF/sivaprakashtech" alt="GitHub Contribution Calendar"/>
+
+</p>
+
+🚀 Development Activity
+
+🌱 Learning Every Day
+
+███████████████████████████░░░░ 90%
+
+React Development        ████████████████████ 95%
+
+Python Development       █████████████████░░ 85%
+
+Flask Backend            ████████████████░░░ 80%
+
+Manual Testing           ███████████████████ 95%
+
+REST APIs                █████████████████░░ 85%
+
+SQL                      ███████████████░░░░ 75%
+
+Git & GitHub             ███████████████████ 90%
+
+Automation Testing       ███████████░░░░░░░░ 60%
+
+📌 Current Focus
+
+🚀 Building
+
+Enterprise Full Stack Applications
+
+QA Management Platforms
+
+Analytics Dashboards
+
+Business Management Systems
+
+Network Monitoring Applications
+
+📖 Learning
+
+Playwright Automation
+
+Advanced Python
+
+TypeScript
+
+System Design
+
+Clean Architecture
+
+Docker
+
+CI/CD
+
+Cloud Deployment
+
+🎯 2026 Goals
+
+✅ Become an SDET
+
+✅ Build 25+ Production Projects
+
+✅ Contribute to Open Source
+
+✅ Master React Ecosystem
+
+✅ Master Flask Backend
+
+✅ Learn Playwright
+
+✅ Learn Docker
+
+✅ Learn Kubernetes
+
+✅ Crack Top Product Companies
+
+💬 Ask Me About
+
+🧪 Manual Testing
+⚛️ React Development
+🐍 Python & Flask
+🌐 REST APIs
+💻 Full Stack Development
+📊 Enterprise Dashboards
+🚀 Git & GitHub
+🎨 Modern UI Design
+☁️ Vercel & Render Deployment
+
+🌍 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/sivaprakashtech">
-<img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/siva-prakash-p-8787992b1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:sivasj0225@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-<br/>
-<br/>
+<a href="https://wa.me/918925197800">
 
-<img src="https://komarev.com/ghpvc/?username=sivaprakashtech&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-</div>
-
----
-
-<div align="center">
-
-### ⚡ BUILD · TEST · AUTOMATE · SHIP
-
-**Software Engineer mindset with a Quality Engineering foundation.**
-
-</div>
-
----
-<div align="center">
-
-## 👋 WHO AM I?
-
-### I don't just write code.
-
-### I **BUILD** it.
-### I **TEST** it.
-### I **BREAK** it.
-### I **FIX** it.
-### I **AUTOMATE** it.
-### And I **SHIP** it. 🚀
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 THE ENGINEER
-
-I'm **Siva Prakash**, a QA Engineer and software builder focused on creating reliable, production-oriented applications.
-
-My work sits between:
-
-**Software Development × Quality Engineering × Automation**
-
-I enjoy turning ideas into working products and then going one step further — testing the edge cases, investigating failures, automating repetitive workflows, and improving the system.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 THE DIRECTION
-
-```text
-QA ENGINEERING
-      │
-      ▼
-TEST AUTOMATION
-      │
-      ▼
-PLAYWRIGHT + PYTHON
-      │
-      ▼
-SDET
-      │
-      ▼
-SOFTWARE ENGINEERING
----
-
-<div align="center">
-
-# 🚀 FEATURED PROJECTS
-
-### A few things I've built, tested, and shipped.
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROJECT 01                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## 🚀 GrowthPilot AI
-
-### AI-Powered Marketing Intelligence Platform
-
-A production-oriented SaaS platform that brings **AI assistance, marketing analytics, campaigns, SEO, content, social workflows, CRM, and reporting** into one unified workspace.
-
-<br/>
-
-**Built for:**  
-Startups · Marketing Teams · Growth Teams
-
-<br/>
-
-**Core Stack**
-
-`Next.js` `React` `TypeScript`  
-`Tailwind CSS` `Supabase` `PostgreSQL`  
-`OpenAI API` `Vercel`
-
-<br/>
-
-<a href="https://growthpilot-ai-mu.vercel.app">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C6FF?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
-</a>
+</p>
 
-</td>
+💡 Fun Facts
 
-<td width="45%" valign="top">
+🚀 I enjoy building enterprise-grade software.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=250&text=GROWTHPILOT%20AI&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+🧪 QA Engineering is my passion.
 
-<br/>
+🌐 I love creating production-ready web applications.
 
-<div align="center">
+📚 I continuously learn new technologies.
 
-**AI · SaaS · Analytics**
+🤝 I enjoy collaborating on Open Source projects.
 
-<br/><br/>
+⚡ I believe in writing clean, scalable and maintainable code.
 
-🧠 AI Assistant  
-📊 Marketing Analytics  
-📣 Campaigns  
-🔎 SEO  
-✍️ Content  
-👥 CRM  
-📈 Reports
+🎯 My goal is to become an Enterprise Software Engineer & SDET.
 
-</div>
+📜 Favourite Quote
 
-</td>
-</tr>
-</table>
+<p align="center">
 
-<br/>
+"Great software is built with curiosity, consistency, and continuous learning"
 
-<div align="center">
+</p>
 
-`01 / 06`
+📂 Open Source Projects
 
-</div>
+Project
 
----
+Stack
 
-### 🧩 What makes it interesting?
+Live
 
-```text
-AI
- ├── AI Assistant
- └── AI-powered workflows
+📶 WiFi Analyzer Pro
 
-MARKETING
- ├── Campaigns
- ├── SEO
- ├── Content
- └── Social
+React • Flask • Python
 
-BUSINESS
- ├── CRM
- ├── Analytics
- └── Reporting
+✅
 
-PLATFORM
- ├── Authentication
- ├── Workspace Management
- └── Production Deployment
----
+🛒 ShopFlow Pro
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROJECT 02                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Flask
 
-<div align="center">
+✅
 
-# 🐞 BugTracker Pro
+🚀 DevForge
 
-### Engineering Issue & Bug Management Platform
+React
 
-**Find it. Track it. Fix it. Ship it.**
+✅
 
-</div>
+🏥 MediFlow
 
-<br/>
+React
 
-<table>
-<tr>
+✅
 
-<td width="45%" valign="top">
+👨‍💼 Smart Attendance
 
-<div align="center">
+React
 
-### 🐞 THE PROBLEM
+✅
 
-Engineering teams need a reliable way to track issues from discovery to resolution.
+🤖 ResumeAI Pro
 
-</div>
+React
 
-<br/>
+✅
 
-BugTracker Pro provides a centralized workspace for managing:
+🧪 TestVault
 
-- 🐞 Bugs & issues
-- 📋 Projects
-- 👥 Teams
-- 🔐 Roles & permissions
-- 📊 Engineering analytics
-- 🔄 Issue lifecycle
+Flask
 
-</td>
+✅
 
-<td width="55%" valign="top">
+🐞 BugTracker Pro
 
-<div align="center">
+Flask
 
-### 🧠 THE SOLUTION
+GitHub
 
-A structured engineering workspace designed around the complete bug lifecycle.
+🎨 LogoHub
 
-```text
-DISCOVER
-   ↓
-REPORT
-   ↓
-ASSIGN
-   ↓
-INVESTIGATE
-   ↓
-FIX
-   ↓
-RETEST
-   ↓
-RESOLVE
----
+React
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROJECT 03                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+✅
 
-<div align="center">
+🍽️ DineFlow
 
-# 🧪 TestVault
+Flask
 
-### QA Test Management Platform
+✅
 
-**Plan. Execute. Track. Validate.**
+📈 Profile Summary
 
-</div>
+💼 QA Engineer
 
-<br/>
+💻 Full Stack Developer
 
-<table>
-<tr>
+🧪 Manual Testing Specialist
 
-<td width="55%" valign="top">
+⚛️ React Developer
 
-## 🎯 What is TestVault?
+🐍 Python Developer
 
-TestVault is a QA-focused platform designed to organize the testing lifecycle in one structured workspace.
+🌐 REST API Developer
 
-It helps teams manage:
+🚀 Open Source Contributor
 
-- 📋 Test cases
-- ▶️ Test execution
-- 📊 Test results
-- 🐞 Defect workflows
-- 📝 QA documentation
-- 📈 Testing visibility
+🎯 Future SDET
 
-</td>
+❤️ Support My Work
 
-<td width="45%" valign="top">
+If you like my projects, please consider:
 
-<div align="center">
+⭐ Starring my repositories
 
-### 🧪 QA LIFECYCLE
+🍴 Forking my projects
 
-```text
-REQUIREMENT
-     ↓
-TEST CASE
-     ↓
-TEST RUN
-     ↓
-EXECUTION
-     ↓
-RESULT
-     ↓
-DEFECT
-     ↓
-RETEST
-     ↓
-REGRESSION
----
+📢 Sharing them with others
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROJECT 04                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+🤝 Connecting with me on LinkedIn
 
-<div align="center">
+Every star motivates me to build even better projects.
 
-# 📡 WiFi Analyzer Pro
+🏆 Career Highlights
 
-### Network Monitoring & Wi-Fi Diagnostics Platform
+🏢 QA Engineer with real-world enterprise testing experience
 
-**Scan. Measure. Analyze. Troubleshoot.**
+💻 Built 10+ Production Ready Applications
 
-</div>
+🚀 Multiple Full Stack Applications deployed on Render & Vercel
 
-<br/>
+🧪 Experience in Manual Testing & QA Processes
 
-<table>
-<tr>
+📡 Built Enterprise Network Monitoring Platform
 
-<td width="55%" valign="top">
+⚛️ Strong knowledge in React Ecosystem
 
-## 🌐 What is WiFi Analyzer Pro?
+🐍 Backend Development using Flask
 
-A network-focused application designed to provide visibility into **Wi-Fi conditions, connectivity, performance, and network health** through a centralized interface.
+🌍 Passionate Open Source Developer
 
-It brings network diagnostics and performance information into an easy-to-understand dashboard.
+📈 Continuously improving through hands-on projects
 
-</td>
+📦 Featured Technologies
 
-<td width="45%" valign="top">
+Category
 
-<div align="center">
+Technologies
 
-### 📡 NETWORK FLOW
+Frontend
 
-```text
-      NETWORK
-         ↓
-      SCAN
-         ↓
-     COLLECT
-         ↓
-     ANALYZE
-         ↓
-    VISUALIZE
-         ↓
-   TROUBLESHOOT
----
+HTML5, CSS3, JavaScript, TypeScript, React, Vite, Tailwind CSS
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROJECT 06                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Backend
 
-<div align="center">
+Python, Flask, REST APIs
 
-# 🛒 ShopFlow Pro
+Database
 
-### Multi-Vendor E-Commerce & Business Management Platform
+SQLite, SQL
 
-**Products. Orders. Vendors. Growth.**
+QA
 
-</div>
+Manual Testing, Functional Testing, Regression Testing, Smoke Testing, API Testing
 
-<br/>
+Deployment
 
-<table>
-<tr>
+Vercel, Render
 
-<td width="45%" valign="top">
+Version Control
 
-<div align="center">
+Git, GitHub
 
-### 🛍️ THE EXPERIENCE
+Tools
 
-A commerce platform designed to bring product, vendor, order, and business workflows into one application.
+VS Code, Postman, Chrome DevTools
 
-</div>
+🤝 Open To
 
-<br/>
+✅ Freelance Projects
 
-- 🏪 Multi-vendor marketplace
-- 📦 Product management
-- 🛒 Order management
-- 👤 Authentication
-- 📊 Business analytics
-- 📈 Reporting
-- ⚙️ Admin workflows
+✅ Full Stack Development
 
-</td>
+✅ React Applications
 
-<td width="55%" valign="top">
+✅ Python Development
 
-<div align="center">
+✅ QA Engineering
 
-### 🔄 BUSINESS FLOW
+✅ Software Testing
 
-```text
-VENDOR
-  ↓
-PRODUCT
-  ↓
-CUSTOMER
-  ↓
-ORDER
-  ↓
-FULFILLMENT
-  ↓
-ANALYTICS
-  ↓
-BUSINESS INSIGHTS
+✅ Enterprise Dashboard Development
+
+✅ Open Source Collaboration
+
+⭐ Favorite Tech Quote
+
+"First, solve the problem. Then, write the code."
+
+— John Johnson
+
+💼 Open To Opportunities
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20To-Full%20Time-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Freelance-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Open%20Source-purple?style=for-the-badge"/>
+
+</p>
+
+🤝 Let's Build Together
+
+I'm always excited to collaborate on:
+
+🚀 Enterprise Software
+
+⚛️ React Applications
+
+🐍 Python & Flask Projects
+
+🧪 QA Engineering
+
+🤖 Automation Testing
+
+🌐 REST APIs
+
+📊 Analytics Dashboards
+
+💻 Open Source Projects
+
+📬 Contact Information
+
+📧 Email
+
+sivasj0225@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/siva-prakash-p-8787992b1
+
+🐙 GitHub
+
+https://github.com/sivaprakashtech
+
+❤️ Thank You
+
+<p align="center">
+
+Thank you for visiting my GitHub Profile.
+
+I truly appreciate your time.
+
+If you like my projects,
+
+⭐ Consider giving them a Star.
+
+🤝 Let's Connect.
+
+🚀 Let's Build Something Amazing Together.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
+
+</p>
+
+<p align="center">
+
+⭐ From <b>Siva Prakash</b> with ❤️
+
+</p>

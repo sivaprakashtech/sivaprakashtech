@@ -660,3 +660,189 @@ From understanding the requirement to validating the final release, I follow a s
                     │ Monitor & Iterate    │
                     └──────────────────────┘
 
+---
+
+# 💼 Freelance Services
+
+I help startups, businesses, and product teams **build, test, improve, and ship reliable software**.
+
+My services combine **software development + quality engineering + automation**, allowing me to work across the complete product lifecycle.
+
+---
+
+## 🚀 Web Application Development
+
+I build modern, responsive web applications designed around real business workflows.
+
+### I can help with:
+
+- Business websites
+- SaaS applications
+- Admin dashboards
+- Internal tools
+- Customer portals
+- Management systems
+- CRUD applications
+- Analytics dashboards
+- Authentication-based applications
+- Custom web applications
+
+**Technologies:**  
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
+
+---
+
+## 🧪 QA & Software Testing
+
+I can validate applications before they reach users and help teams improve their overall software quality.
+
+### Testing Services
+
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- End-to-End Testing
+- API Testing
+- Integration Testing
+- UI Testing
+- Negative Testing
+- Cross-browser Validation
+- Release Validation
+
+### Deliverables
+
+- Test scenarios
+- Test cases
+- Defect reports
+- Regression reports
+- Test execution results
+- QA documentation
+- Release readiness feedback
+
+---
+
+## 🤖 Test Automation
+
+I help reduce repetitive manual testing by designing maintainable automation workflows.
+
+### Automation Services
+
+- Playwright automation
+- End-to-end browser testing
+- Regression automation
+- API automation
+- Automated workflows
+- Test utilities
+- Reusable test components
+- Automation maintenance
+
+**Primary tools:**  
+`Playwright` `Python` `TypeScript`
+
+---
+
+## 🔌 API Development & Testing
+
+I can build and validate APIs that support modern web applications.
+
+### Services
+
+- REST API development
+- CRUD APIs
+- API integration
+- Authentication workflows
+- Request/response validation
+- API testing
+- Error handling
+- Negative testing
+- Integration validation
+
+**Tools & Technologies:**  
+`Python` `Flask` `Node.js` `Express` `Postman` `JSON`
+
+---
+
+## 📊 Dashboard & Business Applications
+
+I build data-driven interfaces that turn complex business workflows into simple, usable dashboards.
+
+### Examples
+
+- Admin dashboards
+- Analytics dashboards
+- CRM systems
+- Project management tools
+- QA management systems
+- Reporting platforms
+- Monitoring dashboards
+- Internal business applications
+
+---
+
+## 📡 Network & Wi-Fi Testing
+
+With hands-on network QA experience, I can also help investigate connectivity and performance problems.
+
+### Areas
+
+- Wi-Fi testing
+- Connectivity validation
+- Network diagnostics
+- Performance testing
+- Traffic analysis
+- Packet inspection
+- Throughput testing
+- Network troubleshooting
+
+**Tools:**  
+`Wireshark` `iperf3` `Linux CLI`
+
+---
+
+# 🎯 What Clients Can Hire Me For
+
+| Requirement | Service |
+|---|---|
+| Need a web application | 💻 Full-Stack Development |
+| Need a SaaS dashboard | 🚀 SaaS Development |
+| Need application testing | 🧪 QA & Functional Testing |
+| Need API validation | 🔌 API Testing |
+| Need repetitive tests automated | 🤖 Playwright Automation |
+| Need bugs investigated | 🐞 Defect Analysis |
+| Need a business dashboard | 📊 Dashboard Development |
+| Need network troubleshooting | 📡 Network Diagnostics |
+| Need an existing product validated | 🔍 End-to-End QA |
+| Need a technical MVP | ⚡ Product Development |
+
+---
+
+# 🤝 How I Work With Clients
+
+I keep the process straightforward and transparent.
+
+```text
+01  Understand the requirement
+          ↓
+02  Clarify scope & expectations
+          ↓
+03  Break the work into milestones
+          ↓
+04  Build / Test / Automate
+          ↓
+05  Share progress & validate feedback
+          ↓
+06  Deliver & verify
+          ↓
+07  Support improvements when required
+---
+
+# 💼 Experience & Career Journey
+
+My career has grown across **quality engineering, software testing, networking, development, and automation**.
+
+I started with a strong foundation in software and testing, gained hands-on experience working with real-world products and network technologies, and am now expanding deeper into **automation and software engineering**.
+
+---
+

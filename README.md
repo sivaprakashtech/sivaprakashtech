@@ -1258,3 +1258,178 @@ I believe strong engineering skills are built through a combination of **profess
 
 My learning is focused on technologies and engineering practices that directly improve the way I build, test, automate, and troubleshoot software.
 
+---
+
+## 🧪 Quality Engineering
+
+Continuously strengthening:
+
+- Test strategy
+- Test design
+- Risk-based testing
+- API testing
+- Integration testing
+- End-to-End testing
+- Defect investigation
+- Regression strategy
+- Release validation
+
+---
+
+## 🤖 Automation Engineering
+
+Current automation focus:
+
+- Playwright
+- Python
+- TypeScript
+- Browser automation
+- API automation
+- Reusable test architecture
+- Test fixtures
+- Test data management
+- Automated regression
+- CI/CD integration
+
+---
+
+## 💻 Software Engineering
+
+Expanding deeper into:
+
+- TypeScript
+- Python
+- React
+- Next.js
+- REST API architecture
+- Database design
+- Authentication
+- Clean architecture
+- System design fundamentals
+- Performance and scalability
+
+---
+
+## ☁️ Cloud & DevOps
+
+Building practical knowledge around:
+
+- Git workflows
+- GitHub
+- CI/CD
+- Docker
+- Environment management
+- Cloud deployment
+- Production troubleshooting
+- Deployment automation
+
+---
+
+## 📡 Systems & Networking
+
+Continuing to strengthen:
+
+- TCP/IP
+- HTTP/HTTPS
+- DNS
+- Wi-Fi fundamentals
+- Linux
+- Network troubleshooting
+- Packet analysis
+- Performance testing
+- Network automation
+
+---
+
+## 🧠 Learning Philosophy
+
+I prefer **project-driven learning** over learning technologies in isolation.
+
+My approach:
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Test
+  ↓
+Automate
+  ↓
+Document
+  ↓
+Apply
+---
+
+# 🌐 Let's Connect
+
+I'm always interested in meaningful engineering opportunities, freelance projects, and collaborations where I can contribute through **development, quality engineering, automation, or technical problem-solving**.
+
+If you're building something useful or need help improving an existing product, feel free to reach out.
+
+<div align="center">
+
+### 💼 Available For
+
+**Freelance Projects**  
+**QA & Testing Engagements**  
+**Test Automation**  
+**Full-Stack Development**  
+**SaaS & Dashboard Development**  
+**Technical Collaboration**
+
+<br />
+
+<a href="mailto:sivasj0225@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/siva-prakash-p-8787992b1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/sivaprakashtech">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📬 Prefer a Direct Conversation?
+
+For project inquiries, freelance opportunities, or technical collaboration, email me with:
+
+```text
+Project / Requirement
+Expected Outcome
+Timeline
+Relevant Links or References
+---
+
+<div align="center">
+
+### 👨‍💻 Siva Prakash
+
+**QA Engineer · Full-Stack Developer · SDET in Progress**
+
+Building reliable software through **engineering, quality, automation, and continuous improvement.**
+
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-sivaprakashtech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sivaprakashtech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva%20Prakash-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-prakash-p-8787992b1)
+[![Email](https://img.shields.io/badge/Email-sivasj0225%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sivasj0225@gmail.com)
+
+<br />
+
+**Build with purpose. · Test with discipline. · Ship with confidence.**
+
+</div>
+

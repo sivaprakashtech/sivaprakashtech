@@ -172,3 +172,222 @@ Performance
 <br/>
 
 ---
+<br/>
+
+<div align="center">
+
+# ⚡ WHAT I BUILD
+
+<p>
+  <i>Different problems. Different products. One engineering mindset.</i>
+</p>
+
+</div>
+
+<br/>
+
+<table align="center" width="92%">
+
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+<h2>🤖</h2>
+
+<h3>AI & SaaS</h3>
+
+<p>
+Intelligent products designed around
+real business workflows.
+</p>
+
+<p>
+<code>AI Assistants</code><br/>
+<code>Marketing Platforms</code><br/>
+<code>Analytics</code><br/>
+<code>Business Workflows</code>
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<h2>🧪</h2>
+
+<h3>QA & Testing</h3>
+
+<p>
+Tools and platforms focused on
+software quality and engineering workflows.
+</p>
+
+<p>
+<code>Test Management</code><br/>
+<code>Bug Tracking</code><br/>
+<code>API Testing</code><br/>
+<code>Automation</code>
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<h2>📡</h2>
+
+<h3>Networking</h3>
+
+<p>
+Applications focused on network
+visibility, diagnostics and performance.
+</p>
+
+<p>
+<code>Wi-Fi</code><br/>
+<code>Diagnostics</code><br/>
+<code>Performance</code><br/>
+<code>Monitoring</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+<h2>🛠️</h2>
+
+<h3>Developer Tools</h3>
+
+<p>
+Practical utilities that make
+everyday engineering work faster.
+</p>
+
+<p>
+<code>JSON</code><br/>
+<code>Regex</code><br/>
+<code>API Tools</code><br/>
+<code>Code Utilities</code>
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<h2>🛒</h2>
+
+<h3>Business Platforms</h3>
+
+<p>
+Production-oriented applications
+built around business workflows.
+</p>
+
+<p>
+<code>E-Commerce</code><br/>
+<code>Orders</code><br/>
+<code>Products</code><br/>
+<code>Analytics</code>
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<h2>💻</h2>
+
+<h3>Web Applications</h3>
+
+<p>
+Modern responsive applications
+with complete user experiences.
+</p>
+
+<p>
+<code>React</code><br/>
+<code>TypeScript</code><br/>
+<code>Python</code><br/>
+<code>Full-Stack</code>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=FROM+IDEA+%E2%86%92+PRODUCT;FROM+BUG+%E2%86%92+FIX;FROM+MANUAL+%E2%86%92+AUTOMATION;FROM+DATA+%E2%86%92+INSIGHT" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+### 💡
+
+**IDEA**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🧩
+
+**DESIGN**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 💻
+
+**BUILD**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🧪
+
+**TEST**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🚀
+
+**SHIP**
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> **I don't build projects just to add them to a list. I build them to solve problems.**
+
+</div>
+
+---

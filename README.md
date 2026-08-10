@@ -1,494 +1,662 @@
 <div align="center">
 
-Siva Prakash
+# Siva Prakash
 
-QA Engineer · Full-Stack Developer · SDET in Progress
+### QA Engineer · Full-Stack Developer · SDET in Progress
 
-I build reliable software, test it rigorously, and ship production-ready products.
+**I build, test, and ship reliable software for real-world problems.**
 
+<p>
+  <a href="https://github.com/sivaprakashtech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/siva-prakash-p-8787992b1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sivasj0225@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sivaprakashtech&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/sivaprakashtech?style=for-the-badge&label=FOLLOWERS" />
+</p>
 
 </div>
 
-About
+---
 
-I'm a QA Engineer and Full-Stack Developer focused on building dependable web applications, QA platforms, analytics dashboards, and developer tools.
+## 👋 Hello, I'm Siva.
 
-My work sits at the intersection of software quality and software engineering: I think about how a product should work, how it can fail, how users experience it, and how to build it so it remains maintainable as it grows.
+I'm a **QA Engineer and Full-Stack Developer** who enjoys working across both sides of software engineering — **building products and making sure they work reliably**.
 
-I work across:
+My work spans **quality engineering, full-stack development, API validation, enterprise dashboards, network diagnostics, and modern web applications**.
 
-Quality assurance and manual testing
+I'm currently expanding deeper into **test automation and SDET engineering**, with a strong focus on Playwright, Python, scalable testing practices, and production-oriented development.
 
-Full-stack web application development
+> **Build it with purpose. Test it with discipline. Ship it with confidence.**
 
-React and TypeScript interfaces
+---
+## 🚀 What I Do
 
-Python and Flask backends
+I work at the intersection of **Quality Engineering, Software Development, and Automation**.
 
-REST API development and validation
+I help teams turn ideas into **reliable, production-ready software** — from building modern web applications and internal tools to designing test strategies, validating APIs, automating workflows, and investigating complex technical issues.
 
-SQL and application data workflows
+My approach is simple:
 
-Network monitoring and diagnostics
+**Understand → Build → Test → Automate → Improve → Ship**
 
-Production deployment and troubleshooting
+### 🎯 My Core Focus
 
-Test automation with Playwright and Python
+| Area | What I Bring |
+|------|--------------|
+| 🧪 Quality Engineering | Functional, regression, exploratory, integration, and end-to-end testing |
+| 🤖 Test Automation | Playwright, Python, browser automation, reusable test workflows |
+| 🌐 Full-Stack Development | React, TypeScript, JavaScript, Python, Flask, REST APIs |
+| 🔌 API & Backend Testing | API validation, request/response testing, integration verification |
+| 📊 Enterprise Applications | Dashboards, SaaS platforms, QA systems, business tools |
+| 📡 Network Engineering | Wi-Fi diagnostics, network monitoring, traffic analysis, troubleshooting |
+| 🛠️ Engineering Tools | Git, GitHub, Linux, SQL, Postman, Wireshark and developer tooling |
 
-Engineering mindset: Build it. Test it. Measure it. Improve it. Ship it.
+---
 
-What I Do
+## 💡 How I Think About Software
 
-Area
+Good software isn't just about making something **work**.
 
-What I Build / Handle
+It's about making it:
 
-QA Engineering
+- **Reliable** enough for real users
+- **Maintainable** enough for future developers
+- **Testable** enough to catch problems early
+- **Scalable** enough to grow with the product
+- **Understandable** enough for teams to work with
+- **Polished** enough to inspire confidence
 
-Functional, regression, smoke, sanity, exploratory and API testing
+That's the standard I try to bring to every project I work on.
 
-Test Design
+---
 
-Test cases, test scenarios, defect reporting and test documentation
+## 🤝 Who I Work With
 
-Frontend
+I’m particularly interested in working with:
 
-React, TypeScript, Vite, Tailwind CSS, responsive interfaces
+- 🚀 Startups building their first serious product
+- 💻 SaaS teams improving existing applications
+- 🏢 Businesses that need internal tools or dashboards
+- 🧪 Teams looking to strengthen their QA process
+- 🤖 Projects that need test automation
+- 🌐 Teams working on web, API, or network-focused products
 
-Backend
+Whether the requirement is **building a product, testing an existing system, automating repetitive workflows, or improving software quality**, I enjoy solving the engineering problem behind it.
 
-Python, Flask, REST APIs, CRUD services and integrations
+---
+## 🧠 Core Expertise
 
-Data
+My technical strengths are built around four connected areas: **Quality Engineering, Software Development, Automation, and Systems & Networking.**
 
-SQL, SQLite and application data workflows
+### 🧪 Quality Engineering
 
-Network QA
+I approach testing from a product and user perspective, not just a checklist.
 
-WiFi diagnostics, network monitoring and performance validation
+- Functional Testing
+- Regression Testing
+- Smoke & Sanity Testing
+- Exploratory Testing
+- Integration Testing
+- End-to-End Testing
+- API Testing
+- Test Case Design
+- Test Scenario Design
+- Defect Reporting & Tracking
+- Root Cause Analysis
+- Retesting & Release Validation
+- Test Documentation
 
-Automation
+---
 
-Playwright, Python-based testing and automation workflows
+### 💻 Full-Stack Development
 
-Delivery
+I build modern web applications with a focus on clean interfaces, maintainable code, and reliable backend workflows.
 
-Git, GitHub, Vercel, Render and production troubleshooting
+**Frontend**
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- Responsive UI
+- Component-Based Architecture
+
+**Backend**
+- Python
+- Flask
+- REST APIs
+- Authentication
+- CRUD Operations
+- API Integrations
+- Server-Side Business Logic
+
+**Data**
+- SQL
+- SQLite
+- PostgreSQL
+- Database-Driven Applications
+
+---
+
+### 🤖 Test Automation
+
+I'm actively developing toward an **SDET-focused engineering role**, combining testing fundamentals with automation and software engineering.
+
+- Playwright
+- Python Automation
+- End-to-End Test Automation
+- Browser Automation
+- API Automation
+- Test Workflow Design
+- Reusable Test Utilities
+- Automation Framework Fundamentals
+- CI/CD-Aware Testing
+
+---
+
+### 🌐 API & Integration Engineering
+
+I work with APIs both as a developer and as a tester.
+
+- REST API Development
+- API Functional Testing
+- Request / Response Validation
+- Authentication Testing
+- CRUD API Workflows
+- Integration Testing
+- Error & Negative Testing
+- Postman
+- JSON
+- API Debugging
+
+---
+
+### 📡 Network & Wi-Fi Engineering
+
+My QA experience also includes hands-on testing and troubleshooting of networking products and Wi-Fi systems.
+
+- Wi-Fi Testing
+- Network Diagnostics
+- Connectivity Testing
+- Performance Testing
+- Traffic Analysis
+- Wireshark
+- iperf3
+- Linux CLI
+- Network Troubleshooting
+- Network Performance Analysis
+
+---
+
+### 🛠️ Engineering & Developer Tools
+
+```text
+Git              → Version Control
+GitHub           → Source Control & Collaboration
+Postman          → API Testing
+Wireshark        → Network Analysis
+Playwright       → Test Automation
+VS Code          → Development
+Linux CLI        → System & Network Workflows
+Chrome DevTools  → Web Debugging
+Vercel           → Production Deployment
+Render           → Application Deployment
+## 🛠️ Technology Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,sql,html,css" />
+</p>
+
+| Technology | Primary Use |
+|---|---|
+| TypeScript | Type-safe frontend and application development |
+| JavaScript | Web application development |
+| Python | Backend services, automation and tooling |
+| SQL | Data querying and application workflows |
+| HTML5 | Semantic web interfaces |
+| CSS3 | Responsive and modern UI styling |
+
+---
+
+### ⚛️ Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
+
+- React
+- Next.js
+- TypeScript
+- Vite
+- Tailwind CSS
+- React Router
+- Responsive Design
+- Component-Based Architecture
+- Modern UI Development
+
+---
+
+### 🐍 Backend & API Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
+</p>
+
+- Python
+- Flask
+- Node.js
+- Express
+- REST APIs
+- JSON
+- Authentication
+- CRUD Services
+- API Integrations
+- Server-Side Business Logic
+
+---
 
-Technical Stack
+### 🗄️ Databases & Data
 
-Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+</p>
+
+- PostgreSQL
+- MySQL
+- SQLite
+- Supabase
+- SQL
+- Database-Driven Applications
+- Data Validation
+- CRUD Workflows
 
-JavaScript TypeScript Python SQL HTML5 CSS3
+---
 
-Frontend
+### 🧪 Quality Engineering & Automation
 
-React React Router Vite Tailwind CSS Axios
+<p>
+  <img src="https://skillicons.dev/icons?i=playwright,postman,python" />
+</p>
 
-Backend & APIs
+- Playwright
+- Python Automation
+- API Testing
+- End-to-End Testing
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- Test Case Design
+- Defect Management
+- Release Validation
 
-Flask REST APIs JSON CRUD Authentication
+---
 
-Quality Engineering
+### 📡 Network & Systems
 
-Manual Testing Functional Testing Regression Testing Smoke Testing Sanity Testing Exploratory Testing API Testing Defect Lifecycle Test Case Design
+```text
+Wireshark
+iperf3
+Linux
+Network Diagnostics
+Wi-Fi Testing
+Traffic Analysis
+Performance Testing
+Connectivity Testing
+---
 
-Automation
+# 🚀 Selected Projects
 
-Playwright Python Automation
+> A curated selection of production-oriented applications built across **AI, SaaS, QA, networking, developer tooling, and e-commerce**.
 
-Data
+These projects demonstrate my ability to take a product from **concept → architecture → implementation → testing → deployment**.
 
-SQLite SQL
+---
 
-Dev & Delivery
+## 01 · 🚀 GrowthPilot AI
 
-Git GitHub Vercel Render Postman Chrome DevTools VS Code Node.js npm
+### AI-Powered Marketing Intelligence & Growth Platform
 
-Selected Work
+**GrowthPilot AI** is a full-stack marketing SaaS platform designed to bring marketing intelligence, campaign workflows, SEO, content, social media, CRM, analytics, reporting, and AI assistance into one unified workspace.
 
-I prefer showcasing a smaller set of meaningful projects rather than listing every experiment. Each project below demonstrates a different engineering capability.
+### 🎯 What I Built
 
-01 · GrowthPilot AI
+- AI-powered marketing assistant
+- Marketing analytics dashboard
+- Campaign management workflows
+- SEO and search analytics
+- Content creation workflows
+- Social media management
+- CRM and lead management
+- Business reporting
+- Authentication and workspace workflows
+- Production deployment
 
-AI-Powered Marketing Intelligence & Growth Platform
+### 🧠 Engineering Focus
 
-A production-oriented marketing SaaS platform combining analytics, campaign workflows, SEO, content, social media, CRM and AI-assisted marketing workflows in one workspace.
+**AI SaaS · Full Stack · Analytics · Business Workflows · Production Deployment**
 
-Focus: AI SaaS · Analytics · Business Workflows · Full Stack · Production Deployment
+### 🛠️ Stack
 
-Highlights
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `OpenAI API` `Vercel`
 
-AI Marketing Assistant
+### 🔗 Links
 
-Marketing analytics dashboard
+🌐 **Live Demo:** https://growthpilot-ai-mu.vercel.app  
+💻 **GitHub:** https://github.com/sivaprakashtech/GrowthPilot-AI
 
-Campaign management
+---
 
-SEO and search analytics workflows
+## 02 · 🐞 BugTracker Pro
 
-Content Studio
+### Enterprise Bug Tracking & Issue Management Platform
 
-Social media workflows
+**BugTracker Pro** is a full-stack issue management platform designed around software engineering and QA workflows.
 
-CRM and lead management
+It provides a centralized environment for managing bugs, projects, teams, permissions, analytics, and engineering activity.
 
-Reports and performance insights
+### 🎯 What I Built
 
-Authentication and workspace management
+- Bug and issue management
+- Project workflows
+- Team collaboration
+- Role-based access
+- Analytics dashboard
+- Engineering activity tracking
+- Issue lifecycle management
 
-Production deployment with Vercel
+### 🧠 Engineering Focus
 
-Stack: Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · OpenAI API · Vercel
+**QA Engineering · Full Stack · Issue Management · RBAC · Analytics**
 
-Live: https://growthpilot-ai-mu.vercel.appRepository: https://github.com/sivaprakashtech/GrowthPilot-AI
+### 🛠️ Stack
 
-02 · BugTracker Pro
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Vite`
 
-Enterprise Bug Tracking & QA Management Platform
+### 🔗 Links
 
-A full-stack issue management platform designed around real engineering-team workflows, including bug tracking, project management, collaboration, role-based access, analytics and reporting.
+💻 **GitHub:** https://github.com/sivaprakashtech/BugTracker-Pro
 
-Focus: QA Engineering · Full Stack · Issue Management · RBAC · Analytics
+---
 
-Highlights
+## 03 · 🧪 TestVault
 
-Bug and issue lifecycle management
+### QA Test Management Platform
 
-Project and team workflows
+**TestVault** is a structured QA management application for organizing test cases, executing test runs, tracking results, and maintaining testing workflows.
 
-Role-based access
+### 🎯 What I Built
 
-Analytics and reporting
+- Test case management
+- Test execution workflows
+- Test result tracking
+- QA documentation
+- Reporting workflows
+- Structured testing workspace
 
-Collaboration workflows
+### 🧠 Engineering Focus
 
-Engineering-focused dashboard
+**Quality Engineering · Test Management · Manual QA · Reporting**
 
-Stack: React · Node.js · Express · MongoDB · Tailwind CSS · Vite
+### 🛠️ Stack
 
-Repository: https://github.com/sivaprakashtech/BugTracker-Pro
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
-03 · TestVault
+### 🔗 Links
 
-QA Test Management System
+🌐 **Live Demo:** https://testvault-02i7.onrender.com  
+💻 **GitHub:** https://github.com/sivaprakashtech/TestVault
 
-A professional test management platform built to organize test cases, execute test runs and maintain QA documentation in a structured workspace.
+---
 
-Focus: Test Management · Manual QA · Test Execution · Reporting
+## 04 · 📡 NetPulse Pro
 
-Highlights
+### Enterprise WiFi Monitoring & Network Diagnostics Platform
 
-Test case management
+**NetPulse Pro** is a network monitoring and diagnostics platform focused on WiFi visibility, connectivity analysis, performance testing, and operational reporting.
 
-Test execution workflows
+### 🎯 What I Built
 
-QA documentation
+- WiFi scanning
+- Signal analysis
+- Internet speed testing
+- Network diagnostics
+- Performance analytics
+- Real-time charts
+- Reporting workflows
+- Network health visibility
 
-Test result tracking
+### 🧠 Engineering Focus
 
-Reporting workflows
+**Network QA · WiFi · Diagnostics · Performance Testing · Analytics**
 
-Lightweight local deployment
+### 🛠️ Stack
 
-Stack: Python · Flask · SQLite · HTML · CSS · JavaScript
+`React` `Python` `Flask` `SQLite` `REST API` `Vite` `Tailwind CSS`
 
-Live: https://testvault-02i7.onrender.comRepository: https://github.com/sivaprakashtech/TestVault
+### 🔗 Links
 
-04 · NetPulse Pro
+🌐 **Live Demo:** https://wi-fi-analyzer-pro.vercel.app  
+💻 **GitHub:** https://github.com/sivaprakashtech/WiFi-Analyzer-Pro
 
-Enterprise WiFi Monitoring & Network Diagnostics Platform
+---
 
-A network monitoring and diagnostics platform focused on WiFi visibility, network health, performance analysis and operational reporting.
+## 05 · 🧰 DevForge
 
-Focus: Network QA · WiFi · Diagnostics · Monitoring · Analytics
+### Developer Productivity Toolkit
 
-Highlights
+**DevForge** is a modern developer workspace that brings frequently used development utilities together into a single productivity-focused application.
 
-WiFi scanning
+### 🎯 What I Built
 
-Signal analysis
+- JSON Formatter
+- Markdown Studio
+- Regex Tester
+- API Playground
+- Image utilities
+- Color tools
+- Code Playground
 
-Internet speed testing
+### 🧠 Engineering Focus
 
-Network diagnostics
+**Developer Experience · Productivity · Frontend Engineering · Tooling**
 
-Analytics dashboard
+### 🛠️ Stack
 
-Real-time charts
+`React` `TypeScript` `Vite` `Tailwind CSS`
 
-Reporting
+### 🔗 Links
 
-Network health visibility
+🌐 **Live Demo:** https://dev-forge-drab.vercel.app  
+💻 **GitHub:** https://github.com/sivaprakashtech/DevForge
 
-Stack: React · Flask · Python · SQLite · REST API · Vite · Tailwind CSS
+---
 
-Live: https://wi-fi-analyzer-pro.vercel.appRepository: https://github.com/sivaprakashtech/WiFi-Analyzer-Pro
+## 06 · 🛒 ShopFlow Pro
 
-05 · DevForge
+### Multi-Vendor E-Commerce Platform
 
-AI-Powered Developer Productivity Workspace
+**ShopFlow Pro** is a commerce platform covering vendor workflows, product management, orders, authentication, analytics, and reporting.
 
-A modern developer toolkit bringing commonly used development utilities into one focused workspace.
+### 🎯 What I Built
 
-Focus: Developer Experience · Productivity · Frontend Engineering
+- Multi-vendor marketplace
+- Authentication
+- Admin dashboard
+- Product management
+- Order workflows
+- Analytics
+- Business reporting
 
-Highlights
+### 🧠 Engineering Focus
 
-JSON Formatter
+**E-Commerce · Business Workflows · Backend Development · Analytics**
 
-Markdown Studio
+### 🛠️ Stack
 
-Regex Tester
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
-API Playground
+### 🔗 Links
 
-Image utilities
+🌐 **Live Demo:** https://shopflow-pro.onrender.com  
+💻 **GitHub:** https://github.com/sivaprakashtech/ShopFlow-Pro
 
-Color tools
+---
 
-Code Playground
+## 📌 Project Portfolio at a Glance
 
-Stack: React · TypeScript · Vite · Tailwind CSS
+| Project | Domain | Primary Strength |
+|---|---|---|
+| 🚀 **GrowthPilot AI** | AI SaaS | AI + Full Stack |
+| 🐞 **BugTracker Pro** | QA / Engineering | Issue Management |
+| 🧪 **TestVault** | Quality Engineering | Test Management |
+| 📡 **NetPulse Pro** | Networking | WiFi + Diagnostics |
+| 🧰 **DevForge** | Developer Tools | Productivity |
+| 🛒 **ShopFlow Pro** | E-Commerce | Business Workflows |
 
-Live: https://dev-forge-drab.vercel.appRepository: https://github.com/sivaprakashtech/DevForge
+---
 
-06 · ShopFlow Pro
+### 💡 What These Projects Demonstrate
 
-Multi-Vendor E-Commerce Platform
+Across these projects, I have worked on:
 
-A commerce application covering vendor workflows, authentication, product management, orders, analytics and reporting.
+**AI Applications · SaaS Platforms · QA Systems · Network Tools · Developer Utilities · Business Applications**
 
-Focus: E-Commerce · Business Workflows · Backend Development
+The common thread is simple:
 
-Highlights
+> **I don't just build interfaces — I build complete workflows around real product problems.**
 
-Multi-vendor marketplace
+---
+---
 
+# 🧪 Quality Engineering
+
+Quality is not a final step in my workflow.
+
+I believe software quality should be considered throughout the product lifecycle — from requirements and test design to implementation, validation, release, and continuous improvement.
+
+---
+
+## 🔍 Testing Expertise
+
+### Functional Testing
+
+- Requirement-based testing
+- Feature validation
+- Positive and negative scenarios
+- Business workflow validation
+- UI behavior verification
+- Cross-feature validation
+
+### Regression & Release Testing
+
+- Regression test execution
+- Smoke testing
+- Sanity testing
+- Release validation
+- Build verification
+- Retesting after defect fixes
+
+### Exploratory Testing
+
+I use exploratory testing to identify unexpected behavior beyond predefined test cases.
+
+- Edge-case discovery
+- Boundary testing
+- Negative scenarios
+- User-flow exploration
+- Failure-path validation
+- Risk-based exploration
+
+---
+
+## 🔌 API Testing
+
+I work with APIs from both **development and quality perspectives**.
+
+### API Validation
+
+- HTTP methods
+- Status codes
+- Request / response validation
+- JSON payload validation
+- Authentication
+- Authorization
+- CRUD workflows
+- Error handling
+- Negative testing
+- Integration testing
+
+### API Workflow
+
+```text
+Request
+   ↓
 Authentication
+   ↓
+Endpoint Validation
+   ↓
+Response Validation
+   ↓
+Data Verification
+   ↓
+Negative Testing
+   ↓
+Integration Validation
+---
+
+# ⚙️ Engineering Workflow
+
+I approach every project as a complete engineering problem — not just a collection of features.
+
+From understanding the requirement to validating the final release, I follow a structured workflow focused on **clarity, reliability, maintainability, and measurable results**.
+
+## 🔄 My Development & QA Workflow
+
+```text
+                    ┌──────────────────────┐
+                    │   Understand Problem │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Define Requirements  │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Design the Solution  │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │       Build          │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │       Test           │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Debug & Improve      │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │     Validate         │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │      Deploy          │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Monitor & Iterate    │
+                    └──────────────────────┘
 
-Admin dashboard
-
-Product management
-
-Orders
-
-Analytics
-
-Reports
-
-Stack: Python · Flask · SQLite · HTML · CSS · JavaScript
-
-Live: https://shopflow-pro.onrender.comRepository: https://github.com/sivaprakashtech/ShopFlow-Pro
-
-Engineering Approach
-
-I approach projects as complete products rather than isolated screens.
-
-Understand the problem
-        ↓
-Define the workflow
-        ↓
-Design the solution
-        ↓
-Build the application
-        ↓
-Validate functionality
-        ↓
-Test edge cases
-        ↓
-Debug & improve
-        ↓
-Deploy
-        ↓
-Monitor & iterate
-
-This approach helps me work comfortably across both development and quality engineering.
-
-Quality Engineering
-
-My QA workflow covers the complete testing lifecycle:
-
-Requirements
-    ↓
-Test Scenarios
-    ↓
-Test Cases
-    ↓
-Test Execution
-    ↓
-Defect Reporting
-    ↓
-Retesting
-    ↓
-Regression
-    ↓
-Release Validation
-
-Testing Areas
-
-Functional testing
-
-Regression testing
-
-Smoke testing
-
-Sanity testing
-
-Exploratory testing
-
-API testing
-
-UI validation
-
-Negative testing
-
-Boundary and edge-case testing
-
-Defect lifecycle management
-
-Test documentation
-
-Automation Direction
-
-I'm actively moving from manual QA toward automation and SDET engineering.
-
-Current focus:
-
-Playwright
-
-Python automation
-
-API automation
-
-Reusable test architecture
-
-CI/CD-aware testing
-
-Test reporting
-
-Reliable end-to-end workflows
-
-My goal is to combine strong QA fundamentals with software engineering and automation.
-
-Development Principles
-
-Reliability over demos
-
-A feature is not complete because it works once. It should handle realistic usage and failure cases.
-
-Clean interfaces
-
-I prefer simple, consistent and responsive user experiences.
-
-Testability by design
-
-I think about how functionality can be verified while building it.
-
-Secure configuration
-
-Secrets and environment-specific configuration stay outside source control.
-
-Production mindset
-
-Builds, deployments, environment configuration and runtime failures are part of engineering—not an afterthought.
-
-Continuous improvement
-
-Every project is an opportunity to improve architecture, testing, performance and developer experience.
-
-Current Focus
-
-Building
-
-Production-oriented SaaS applications
-
-QA and test management platforms
-
-Analytics dashboards
-
-Business management systems
-
-Network monitoring tools
-
-Developer productivity tools
-
-Learning
-
-Playwright automation
-
-Advanced Python
-
-TypeScript
-
-System design
-
-Clean architecture
-
-Docker
-
-CI/CD
-
-Cloud deployment
-
-Career Direction
-
-QA Engineer → SDET / Software Engineer
-
-Open to Collaboration
-
-I'm interested in working on:
-
-SaaS products
-
-AI-powered applications
-
-Business dashboards
-
-QA platforms
-
-React applications
-
-Python backends
-
-REST APIs
-
-Automation frameworks
-
-Network and monitoring tools
-
-Internal business applications
-
-Freelance Services
-
-If you're looking for someone who can build and test, I can help with:
-
-Web Development · QA Testing · API Testing · Dashboard Development · React · Python/Flask · Test Automation
-
-GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sivaprakashtech&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakashtech&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sivaprakashtech&hide_border=true&theme=transparent" />
-</p>
-
-Let's Build Something Useful
-
-Have an idea, product requirement, QA problem or application that needs to be built?
-
-Let's turn it into a reliable product.
-
-📧 Email: sivasj0225@gmail.com💼 LinkedIn: https://www.linkedin.com/in/siva-prakash-p-8787992b1🐙 GitHub: https://github.com/sivaprakashtech
-
-<div align="center">
-
-Thanks for visiting 👋
-
-Build with purpose. Test with discipline. Ship with confidence.
-
-</div>

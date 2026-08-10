@@ -495,3 +495,94 @@ CRM capabilities into one unified workspace.
 </div>
 
 ---
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  PROJECT 02 — BUGTRACKER PRO                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:111827,50:7F1D1D,100:EF4444&text=BUGTRACKER%20PRO&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=F87171&center=true&vCenter=true&width=400&lines=BUG+DISCOVERY;ISSUE+TRACKING;TEAM+WORKFLOW;QUALITY+VISIBILITY" />
+
+</td>
+
+<td width="58%" valign="middle">
+
+<h1>🐞 BugTracker Pro</h1>
+
+<h3>Enterprise Bug Tracking & Engineering Platform</h3>
+
+<br/>
+
+<p>
+<strong>BugTracker Pro</strong> is a modern issue management platform
+designed to help engineering teams capture, organize, assign and track
+software defects throughout their lifecycle.
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td>🐞 Bug Tracking</td>
+<td>📋 Projects</td>
+</tr>
+<tr>
+<td>👥 Team Workflow</td>
+<td>📊 Analytics</td>
+</tr>
+<tr>
+<td>🔐 Role-Based Access</td>
+<td>🔄 Issue Lifecycle</td>
+</tr>
+</table>
+
+<br/>
+
+<strong>Built With</strong>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5"/>
+</p>
+
+<br/>
+
+<a href="https://github.com/sivaprakashtech/BugTracker-Pro">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🧪 THE DEFECT LIFECYCLE
+
+```text
+DISCOVER
+   ↓
+REPORT
+   ↓
+ASSIGN
+   ↓
+INVESTIGATE
+   ↓
+FIX
+   ↓
+RETEST
+   ↓
+REGRESSION
+   ↓
+RESOLVE

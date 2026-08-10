@@ -959,3 +959,110 @@ business workflows through a centralized platform.
 <p align="center">
 <sub>AI • SaaS • QA • Networking • Developer Tools • Commerce</sub>
 </p>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ACTIVITY                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">⚡ GITHUB ACTIVITY</h1>
+
+<p align="center">
+  <i>Building consistently. Learning continuously. Shipping relentlessly.</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=CODE+%E2%86%92+TEST+%E2%86%92+BUILD+%E2%86%92+SHIP;CONSISTENCY+CREATES+EXPERIENCE.;EVERY+COMMIT+TELLS+A+STORY.;ALWAYS+BUILDING.+ALWAYS+LEARNING."/>
+</p>
+
+<br/>
+
+<!-- ======================== GITHUB STREAK ======================== -->
+
+<p align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sivaprakashtech&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F2937&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8"
+    width="70%"
+  />
+
+</p>
+
+<br/>
+
+<!-- ======================== GITHUB STATS ========================= -->
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sivaprakashtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"
+  width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakashtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ======================== CONTRIBUTIONS ======================== -->
+
+<h2 align="center">🟦 CONTRIBUTION JOURNEY</h2>
+
+<p align="center">
+  <i>A visual record of consistency, experimentation and continuous improvement.</i>
+</p>
+
+<br/>
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprakashtech&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"
+  width="96%"
+/>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=94A3B8&center=true&vCenter=true&width=650&lines=COMMITS+%E2%80%A2+PROJECTS+%E2%80%A2+EXPERIMENTS+%E2%80%A2+LEARNING;FROM+IDEA+TO+PRODUCTION.;FROM+BUG+TO+SOLUTION." />
+
+</p>
+
+<br/>
+
+<!-- ======================== PROFILE COUNTER ====================== -->
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sivaprakashtech&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<hr/>
+
+<p align="center">
+
+<strong>🔥 BUILD. COMMIT. LEARN. REPEAT. 🔥</strong>
+
+</p>

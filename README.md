@@ -385,6 +385,110 @@ with complete user experiences.
 <br/>
 
 <div align="center">
+<br/>
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+
+<p>
+  <i>Real products. Real deployments. Real engineering.</i>
+</p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT 01 — GROWTHPILOT                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="middle">
+
+<h1>🤖 GrowthPilot AI</h1>
+
+<h3>AI-Powered Marketing Intelligence Platform</h3>
+
+<br/>
+
+<p>
+<strong>GrowthPilot AI</strong> is a modern SaaS platform designed to bring
+AI assistance, marketing workflows, analytics, SEO, content, campaigns and
+CRM capabilities into one unified workspace.
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td>🧠 AI Assistant</td>
+<td>📊 Analytics</td>
+</tr>
+<tr>
+<td>🎯 Campaigns</td>
+<td>🔍 SEO</td>
+</tr>
+<tr>
+<td>✍️ Content</td>
+<td>👥 CRM</td>
+</tr>
+</table>
+
+<br/>
+
+<strong>Built With</strong>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase&perline=5"/>
+</p>
+
+<br/>
+
+<a href="https://growthpilot-ai-mu.vercel.app">
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-00C6FF?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=GROWTHPILOT%20AI&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=400&lines=AI+ASSISTANT;MARKETING+ANALYTICS;SEO+%2B+CONTENT;CAMPAIGNS+%2B+CRM" />
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+`01 / 06`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> **One workspace for modern growth teams.**
+
+</div>
+
+---
 
 > **I don't build projects just to add them to a list. I build them to solve problems.**
 

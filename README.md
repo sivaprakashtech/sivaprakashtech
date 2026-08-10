@@ -1067,7 +1067,162 @@ business workflows through a centralized platform.
 
 </p>
 <br/>
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CORE TECH STACK                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">🧠 CORE TECH STACK</h1>
+
+<p align="center">
+  <i>The technologies I use to build, test, automate and ship software.</i>
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=FRONTEND+%E2%80%A2+BACKEND+%E2%80%A2+QA+%E2%80%A2+AUTOMATION;CODE+%E2%80%A2+TEST+%E2%80%A2+DEBUG+%E2%80%A2+DEPLOY" />
+
+</div>
+
+<br/>
+
+<h2 align="center">⚛️ FRONTEND</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,tailwind,html,css&perline=7"/>
+
+</p>
+
+<p align="center">
+<code>React</code>
+<code>TypeScript</code>
+<code>JavaScript</code>
+<code>Vite</code>
+<code>Tailwind CSS</code>
+<code>HTML5</code>
+<code>CSS3</code>
+</p>
+
+<br/>
+
+<h2 align="center">🐍 BACKEND</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,sqlite&perline=5"/>
+
+</p>
+
+<p align="center">
+<code>Python</code>
+<code>Flask</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>REST APIs</code>
+<code>SQLite</code>
+<code>SQL</code>
+</p>
+
+<br/>
+
+<h2 align="center">🧪 QUALITY ENGINEERING</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postman,playwright&perline=3"/>
+
+</p>
+
+<p align="center">
+<code>Manual Testing</code>
+<code>Functional Testing</code>
+<code>Regression Testing</code>
+<code>Smoke Testing</code>
+<code>Sanity Testing</code>
+<br/>
+<code>Exploratory Testing</code>
+<code>API Testing</code>
+<code>Test Case Design</code>
+<code>Bug Reporting</code>
+</p>
+
+<br/>
+
+<h2 align="center">🤖 AUTOMATION</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,playwright&perline=2"/>
+
+</p>
+
+<p align="center">
+<code>Playwright</code>
+<code>Python Automation</code>
+<code>E2E Testing</code>
+<code>API Automation</code>
+<code>Test Automation</code>
+</p>
+
+<br/>
+
+<h2 align="center">📡 NETWORKING</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python&perline=3"/>
+
+</p>
+
+<p align="center">
+<code>Wi-Fi Testing</code>
+<code>Wireshark</code>
+<code>iperf3</code>
+<code>Linux</code>
+<code>Network Diagnostics</code>
+<code>Performance Analysis</code>
+</p>
+
+<br/>
+
+<h2 align="center">☁️ TOOLS & DEPLOYMENT</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=5"/>
+
+</p>
+
+<p align="center">
+<code>Git</code>
+<code>GitHub</code>
+<code>VS Code</code>
+<code>Postman</code>
+<code>Vercel</code>
+<code>Render</code>
+<code>Chrome DevTools</code>
+<code>npm</code>
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=800&color=94A3B8&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+AUTOMATE+%E2%86%92+SHIP" />
+
+</div>
+
+<br/>
+
+<hr/>
+
+<p align="center">
+<strong>⚡ My stack evolves as the problems I solve evolve.</strong>
+</p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FREELANCE SERVICES                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->

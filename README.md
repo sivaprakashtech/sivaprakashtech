@@ -39,167 +39,273 @@ Building Enterprise Software • QA Platforms • Full Stack Applications • Ne
 
 I love transforming ideas into scalable applications using modern technologies while continuously improving my testing and software engineering skills.
 
-🏢 Current Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🏢 TECHNOLOGY STACK                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Frontend
+<h2 align="center">🏢 TECH STACK & EXPERTISE</h2>
 
-React • TypeScript • Vite • Tailwind CSS
+<p align="center">
+  <i>Tools and technologies I use to build, test, automate and ship software.</i>
+</p>
 
-Backend
+<br/>
 
-Python • Flask • REST APIs
+<table align="center">
+<tr>
 
-QA
+<td width="50%" valign="top">
 
-Manual Testing • API Testing • Regression Testing
+<h3 align="center">🎨 FRONTEND</h3>
 
-Database
+<p align="center">
 
-SQLite • SQL
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css,js&perline=4"/>
 
-Deployment
+</p>
 
-GitHub • Render • Vercel
+<p align="center">
 
-👨‍💻 Current Focus
+<code>React</code> ·
+<code>TypeScript</code> ·
+<code>Vite</code> ·
+<code>Tailwind CSS</code><br/>
+<code>HTML5</code> ·
+<code>CSS3</code> ·
+<code>JavaScript ES6+</code><br/>
+<code>React Router</code> ·
+<code>Axios</code> ·
+<code>Responsive UI</code>
 
-🔍 Manual Testing & Functional Testing
+</p>
 
-🧪 Learning Playwright & Python Automation
+</td>
 
-⚛️ React + TypeScript + Vite
+<td width="50%" valign="top">
 
-🐍 Python + Flask Backend Development
+<h3 align="center">🐍 BACKEND</h3>
 
-🌐 REST API Development & Integration
+<p align="center">
 
-📊 Enterprise Dashboard Development
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,sqlite&perline=4"/>
 
-🚀 Open Source Projects
+</p>
 
-💡 Problem Solving & Clean Code
+<p align="center">
 
-💼 Technical Expertise
+<code>Python</code> ·
+<code>Flask</code> ·
+<code>REST APIs</code><br/>
+<code>SQLite</code> ·
+<code>SQL</code> ·
+<code>JSON</code><br/>
+<code>Authentication</code> ·
+<code>CRUD Operations</code>
 
-QA
+</p>
 
-Development
+</td>
 
-Manual Testing
+</tr>
 
-React
+<tr>
 
-Regression Testing
+<td width="50%" valign="top">
 
-TypeScript
+<h3 align="center">🧪 QA ENGINEERING</h3>
 
-Smoke Testing
+<p align="center">
 
-Python
+<img src="https://skillicons.dev/icons?i=postman,python,playwright&perline=4"/>
 
+</p>
+
+<p align="center">
+
+<code>Manual Testing</code> ·
+<code>Functional Testing</code><br/>
+<code>Regression Testing</code> ·
+<code>Smoke Testing</code><br/>
+<code>Sanity Testing</code> ·
+<code>Exploratory Testing</code><br/>
+<code>API Testing</code> ·
+<code>Bug Reporting</code><br/>
+<code>Test Case Design</code> ·
+<code>Test Execution</code><br/>
+<code>Defect Life Cycle</code> ·
+<code>Test Documentation</code>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ DEVOPS & DEPLOYMENT</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel&perline=4"/>
+
+</p>
+
+<p align="center">
+
+<code>Git</code> ·
+<code>GitHub</code> ·
+<code>Vercel</code><br/>
+<code>Render</code> ·
+<code>Deployment</code> ·
+<code>Version Control</code>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛠️ TOOLS</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,github,git,npm,nodejs&perline=4"/>
+
+</p>
+
+<p align="center">
+
+<code>VS Code</code> ·
+<code>Postman</code> ·
+<code>GitHub Desktop</code><br/>
+<code>Chrome DevTools</code> ·
+<code>npm</code> ·
+<code>Node.js</code>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📡 NETWORKING</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/WiFi-Engineering-00B8FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<code>Wi-Fi Testing</code> ·
+<code>Network Diagnostics</code><br/>
+<code>Wireshark</code> ·
+<code>iperf3</code> ·
+<code>Linux</code><br/>
+<code>Network Performance</code>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CURRENT FOCUS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🎯 CURRENT FOCUS</h2>
+
+<p align="center">
+  <i>What I'm actively improving and building right now.</i>
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🔍
+
+**QA ENGINEERING**
+
+Manual Testing  
+Functional Testing  
+Regression Testing  
 API Testing
 
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AUTOMATION**
+
+Playwright  
+Python Automation  
+E2E Testing  
+API Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️
+
+**SOFTWARE**
+
+React  
+TypeScript  
+Vite  
 Flask
 
-Bug Reporting
+</td>
 
-REST APIs
+<td align="center" width="25%">
 
-Test Case Design
+### 🚀
 
-SQL
+**BUILDING**
 
-🧠 Core Skills
+SaaS Products  
+Dashboards  
+Developer Tools  
+Open Source
 
-🧪 QA Engineering
+</td>
 
-Manual Testing
+</tr>
+</table>
 
-Functional Testing
+<br/>
 
-Regression Testing
+<div align="center">
 
-Smoke Testing
-
-Sanity Testing
-
-Exploratory Testing
-
-API Testing
-
-Bug Reporting
-
-Defect Life Cycle
-
-Test Case Design
-
-Test Execution
-
-Test Documentation
-
-⚛️ Frontend Development
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-TypeScript
-
-React
-
-React Router
-
-Vite
-
-Tailwind CSS
-
-Responsive UI
-
-Axios
-
-🐍 Backend Development
-
-Python
-
-Flask
-
-REST APIs
-
-SQLite
-
-SQL
-
-JSON
-
-Authentication
-
-CRUD Operations
-
-☁️ Deployment
-
-Git
-
-GitHub
-
-Vercel
-
-Render
-
-🛠️ Tools
-
-VS Code
-
-Postman
-
-GitHub Desktop
-
-Chrome DevTools
-
-npm
-
-Node.js
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+AUTOMATE
+  ↓
+DEBUG
+  ↓
+SHIP
+  ↓
+IMPROVE
 
 💻 Tech Stack
 

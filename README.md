@@ -1280,3 +1280,125 @@ interesting product ideas.
 <p align="center">
 <strong>BUILD SOMETHING GREAT. 🚀</strong>
 </p>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      LET'S WORK TOGETHER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">📬 LET'S WORK TOGETHER</h1>
+
+<p align="center">
+  <i>Have an idea, a product or a problem that needs solving?</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=LET'S+TURN+YOUR+IDEA+INTO+SOMETHING+REAL.;LET'S+BUILD+IT.;LET'S+TEST+IT.;LET'S+SHIP+IT."/>
+</p>
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center">
+
+<h2>💡</h2>
+
+<h3>HAVE AN IDEA?</h3>
+
+<p>
+Tell me what you're trying to build,
+improve or solve.
+</p>
+
+</td>
+
+<td width="33%" align="center">
+
+<h2>🛠️</h2>
+
+<h3>NEED AN ENGINEER?</h3>
+
+<p>
+Let's discuss the right technical
+approach for your project.
+</p>
+
+</td>
+
+<td width="33%" align="center">
+
+<h2>🚀</h2>
+
+<h3>READY TO SHIP?</h3>
+
+<p>
+Let's turn the plan into a reliable
+working product.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<a href="mailto:sivasj0225@gmail.com">
+<img src="https://img.shields.io/badge/📩%20EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/siva-prakash-p-8787992b1">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech">
+<img src="https://img.shields.io/badge/⭐%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8" width="65%"/>
+
+</p>
+
+<br/>
+
+<div align="center">
+
+### ⚡ BUILD • TEST • AUTOMATE • SHIP
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=700&lines=QUALITY+IS+NOT+AN+AFTERTHOUGHT.;AUTOMATION+IS+THE+NEXT+STEP.;EVERY+PRODUCT+STARTS+WITH+AN+IDEA." />
+
+</div>
+
+<br/>
+
+<hr/>
+
+<p align="center">
+
+<strong>Thanks for stopping by. 👋</strong>
+
+<br/>
+
+<sub>
+If something here caught your attention, let's build something useful together.
+</sub>
+
+</p>

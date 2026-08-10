@@ -845,4 +845,416 @@ My career has grown across **quality engineering, software testing, networking, 
 I started with a strong foundation in software and testing, gained hands-on experience working with real-world products and network technologies, and am now expanding deeper into **automation and software engineering**.
 
 ---
+## 🏢 Amazon — Quality Services
+
+### Testing Associate · Wi-Fi / Network Quality
+
+**Chennai, India**
+
+I work on quality validation for Wi-Fi and networking products, with hands-on exposure to real-world connectivity, performance, and network testing workflows.
+
+### Key Responsibilities
+
+- Manual testing of Wi-Fi and networking features
+- Functional and regression testing
+- Test case execution and validation
+- Connectivity and performance testing
+- Network troubleshooting and diagnostics
+- Wireshark-based traffic analysis
+- iperf3-based throughput testing
+- Linux CLI-based investigation
+- Defect identification and reporting
+- Reproduction and root-cause investigation
+- Validation across different network scenarios
+
+### Engineering Exposure
+
+```text
+Wi-Fi Testing
+     ↓
+Network Diagnostics
+     ↓
+Traffic Analysis
+     ↓
+Performance Validation
+     ↓
+Defect Investigation
+     ↓
+Release Confidence
+---
+
+# 📊 Proof of Work
+
+I believe a strong engineering profile should be backed by **real work, working applications, and publicly visible code**.
+
+My GitHub is where I document and showcase the projects, experiments, automation work, and engineering problems I work on.
+
+## 🧩 What You'll Find on My GitHub
+
+### 🚀 Production-Oriented Applications
+
+Full-stack applications covering:
+
+- AI-powered SaaS
+- Business dashboards
+- QA platforms
+- CRM workflows
+- E-commerce
+- Developer tools
+- Network monitoring
+
+### 🧪 Quality Engineering Projects
+
+Practical work around:
+
+- Test case design
+- API testing
+- Functional testing
+- Regression testing
+- Defect workflows
+- Test management
+- Automation
+
+### 🤖 Automation
+
+Hands-on exploration of:
+
+- Playwright
+- Python automation
+- End-to-end testing
+- API automation
+- Reusable testing utilities
+
+### 📡 Network Engineering
+
+Projects and experiments involving:
+
+- Wi-Fi diagnostics
+- Network performance
+- Traffic analysis
+- Wireshark
+- iperf3
+- Linux-based troubleshooting
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sivaprakashtech&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakashtech&layout=compact&hide_border=true&theme=transparent"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sivaprakashtech&hide_border=true&theme=transparent"
+    height="170"
+  />
+</p>
+
+---
+
+## 🏗️ How I Use GitHub
+
+I use GitHub not only as a code repository, but as part of my engineering workflow.
+
+```text
+Idea
+ ↓
+Planning
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Debugging
+ ↓
+Commit
+ ↓
+Code Review / Validation
+ ↓
+Deployment
+ ↓
+Iteration
+---
+
+# 🎯 Current Focus
+
+I'm continuously improving across **software engineering, quality engineering, and test automation**.
+
+My current focus is on turning strong QA fundamentals and hands-on development experience into a deeper **SDET / Software Engineering skill set**.
+
+---
+
+## 🤖 01 · Test Automation
+
+My primary automation focus is **Playwright + Python/TypeScript**.
+
+I'm working toward building automation that is:
+
+- Reliable
+- Maintainable
+- Reusable
+- Easy to debug
+- CI/CD friendly
+- Focused on meaningful coverage
+
+### Current Areas
+
+- End-to-End Testing
+- Browser Automation
+- API Automation
+- Test Fixtures
+- Page Object Model
+- Test Data Management
+- Assertions
+- Parallel Execution
+- Test Reporting
+- Automation Architecture
+
+---
+
+## 🐍 02 · Python Engineering
+
+I'm strengthening Python beyond basic scripting and using it for practical engineering work.
+
+### Focus Areas
+
+- Clean Python code
+- Object-Oriented Programming
+- Automation
+- API clients
+- Data processing
+- Testing utilities
+- CLI tools
+- Backend development
+- Debugging and error handling
+
+---
+
+## 🧩 03 · Software Engineering
+
+I'm continuously improving my understanding of how production applications are designed and maintained.
+
+### Focus Areas
+
+- System Design fundamentals
+- API architecture
+- Database design
+- Authentication & authorization
+- Clean architecture
+- Error handling
+- Scalability fundamentals
+- Performance considerations
+- Maintainability
+- Observability
+
+---
+
+## ☁️ 04 · DevOps & Delivery
+
+I'm building stronger understanding of the path from **code → deployment → production**.
+
+### Focus Areas
+
+- Git workflows
+- CI/CD
+- Docker
+- Environment management
+- Cloud deployments
+- Build pipelines
+- Deployment troubleshooting
+- Production debugging
+
+---
+
+## 📡 05 · Systems & Networking
+
+I'm continuing to strengthen my understanding of systems and network behavior alongside software engineering.
+
+### Focus Areas
+
+- TCP/IP
+- HTTP/HTTPS
+- DNS
+- Wi-Fi fundamentals
+- Network troubleshooting
+- Packet analysis
+- Performance testing
+- Linux
+- Network automation
+
+---
+
+# 🗺️ Engineering Roadmap
+
+```text
+                    CURRENT
+                       │
+                       ▼
+              QA ENGINEERING
+                       │
+                       ▼
+              TEST AUTOMATION
+                       │
+                       ▼
+              PLAYWRIGHT + PYTHON
+                       │
+                       ▼
+             API / E2E AUTOMATION
+                       │
+                       ▼
+                CI / CD + DOCKER
+                       │
+                       ▼
+               SYSTEM DESIGN
+                       │
+                       ▼
+            SOFTWARE ENGINEERING
+                       │
+                       ▼
+                SDET / SWE
+---
+
+# 🤝 Why Work With Me?
+
+Choosing a developer or QA engineer is not only about knowing a technology.
+
+It's about finding someone who can **understand the problem, communicate clearly, execute reliably, and take ownership of the result**.
+
+That's the approach I bring to every project.
+
+---
+
+## 🎯 01 · I Think Beyond the Feature
+
+I don't look at a requirement as just a task to complete.
+
+I consider:
+
+- Why the feature exists
+- Who will use it
+- What can go wrong
+- How it interacts with the rest of the system
+- How it should be tested
+- How it can be maintained later
+
+---
+
+## 🧪 02 · I Bring a QA Mindset to Development
+
+Because of my quality engineering background, I naturally think about:
+
+**Happy paths + Failure paths + Edge cases + User impact**
+
+That helps me identify problems earlier and build more reliable workflows.
+
+---
+
+## 💻 03 · I Can Build and Test
+
+My experience spans both sides of the product lifecycle.
+
+```text
+        PRODUCT REQUIREMENT
+                │
+        ┌───────┴───────┐
+        ▼               ▼
+      BUILD            TEST
+        │               │
+     Develop          Validate
+        │               │
+        └───────┬───────┘
+                ▼
+             DEBUG
+                │
+                ▼
+             IMPROVE
+                │
+                ▼
+             DEPLOY
+---
+
+# ⚡ Professional Highlights
+
+<div align="center">
+
+| 🧪 Quality Engineering | 💻 Software Engineering | 🤖 Automation | 📡 Network Engineering |
+|:---:|:---:|:---:|:---:|
+| QA & Testing | Full-Stack Development | Playwright | Wi-Fi Testing |
+| API Testing | React / TypeScript | Python | Wireshark |
+| Regression | Python / Flask | E2E Automation | iperf3 |
+| Exploratory Testing | REST APIs | API Automation | Network Diagnostics |
+
+</div>
+
+---
+
+## 🏆 What I Bring
+
+### 🧪 Production QA Experience
+Hands-on experience validating real-world software and Wi-Fi/networking products with a focus on reliability, performance, and defect investigation.
+
+### 💻 Full-Stack Product Building
+Experience building complete applications across frontend, backend, databases, APIs, authentication, dashboards, and deployment.
+
+### 🤖 Automation Mindset
+Actively developing toward SDET engineering through Playwright, Python automation, API testing, and reusable test workflows.
+
+### 📊 Business-Oriented Applications
+Built SaaS platforms, QA systems, dashboards, CRM workflows, developer tools, e-commerce applications, and network monitoring solutions.
+
+### 🔍 Evidence-Based Debugging
+Comfortable investigating problems using application logs, API responses, browser tools, database state, Linux commands, and network analysis.
+
+### 🚀 Production Mindset
+Experience taking applications from development through testing, environment configuration, deployment, and production validation.
+
+---
+
+## 📌 At a Glance
+
+```text
+Role
+└── QA Engineer / Full-Stack Developer
+
+Primary Direction
+└── SDET / Software Engineering
+
+Core Strength
+└── Build + Test + Automate + Debug
+
+Development
+└── React · Next.js · TypeScript · Python · Flask
+
+Testing
+└── Functional · Regression · API · E2E · Exploratory
+
+Automation
+└── Playwright · Python
+
+Data
+└── PostgreSQL · MySQL · SQLite · Supabase
+
+Networking
+└── Wi-Fi · Wireshark · iperf3 · Linux
+
+Delivery
+└── Git · GitHub · Vercel · Render
+
+Project Domains
+└── AI · SaaS · QA · Networking · E-Commerce · Developer Tools
+---
+
+# 📚 Professional Development
+
+I believe strong engineering skills are built through a combination of **professional experience, continuous learning, and hands-on implementation**.
+
+My learning is focused on technologies and engineering practices that directly improve the way I build, test, automate, and troubleshoot software.
 

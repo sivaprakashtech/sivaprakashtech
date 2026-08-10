@@ -1066,3 +1066,217 @@ business workflows through a centralized platform.
 <strong>🔥 BUILD. COMMIT. LEARN. REPEAT. 🔥</strong>
 
 </p>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     FREELANCE SERVICES                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">💼 FREELANCE SERVICES</h1>
+
+<p align="center">
+  <i>From idea to production — I build, test and ship reliable digital products.</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=NEED+A+PRODUCT%3F+LET'S+BUILD+IT.;NEED+QUALITY%3F+LET'S+TEST+IT.;NEED+AUTOMATION%3F+LET'S+SHIP+IT.;YOUR+IDEA+%E2%86%92+MY+ENGINEERING+%E2%86%92+REAL+PRODUCT."/>
+</p>
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h2>⚛️</h2>
+
+<h3>WEB DEVELOPMENT</h3>
+
+<p>
+Modern responsive web applications
+built for real users and real
+business workflows.
+</p>
+
+<p>
+<code>React</code><br/>
+<code>TypeScript</code><br/>
+<code>Vite</code><br/>
+<code>Tailwind CSS</code>
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h2>🧪</h2>
+
+<h3>QA & TESTING</h3>
+
+<p>
+Professional testing focused on
+finding defects before they reach
+production.
+</p>
+
+<p>
+<code>Manual Testing</code><br/>
+<code>API Testing</code><br/>
+<code>Regression</code><br/>
+<code>Test Design</code>
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h2>🤖</h2>
+
+<h3>AUTOMATION</h3>
+
+<p>
+Automation workflows designed to
+reduce repetitive work and improve
+testing efficiency.
+</p>
+
+<p>
+<code>Playwright</code><br/>
+<code>Python</code><br/>
+<code>E2E Testing</code><br/>
+<code>API Automation</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h2>🐍</h2>
+
+<h3>BACKEND & APIs</h3>
+
+<p>
+Lightweight backend systems and
+REST APIs for modern applications.
+</p>
+
+<p>
+<code>Python</code><br/>
+<code>Flask</code><br/>
+<code>REST APIs</code><br/>
+<code>SQLite / SQL</code>
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h2>📡</h2>
+
+<h3>NETWORKING</h3>
+
+<p>
+Network diagnostics and performance
+analysis for connected systems.
+</p>
+
+<p>
+<code>Wi-Fi</code><br/>
+<code>Wireshark</code><br/>
+<code>iperf3</code><br/>
+<code>Linux</code>
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h2>🚀</h2>
+
+<h3>PRODUCT BUILDING</h3>
+
+<p>
+From concept to deployed product
+with a focus on usability,
+quality and maintainability.
+</p>
+
+<p>
+<code>SaaS</code><br/>
+<code>Dashboards</code><br/>
+<code>Business Apps</code><br/>
+<code>Developer Tools</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">⚡ HOW I WORK</h2>
+
+<p align="center">
+
+<strong>UNDERSTAND</strong>
+&nbsp;→&nbsp;
+<strong>DESIGN</strong>
+&nbsp;→&nbsp;
+<strong>BUILD</strong>
+&nbsp;→&nbsp;
+<strong>TEST</strong>
+&nbsp;→&nbsp;
+<strong>REFINE</strong>
+&nbsp;→&nbsp;
+<strong>DEPLOY</strong>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=94A3B8&center=true&vCenter=true&width=700&lines=CLEAR+COMMUNICATION.;CLEAN+IMPLEMENTATION.;QUALITY-FIRST+MINDSET.;PRODUCTION-READY+DELIVERY." />
+
+</p>
+
+<br/>
+
+<div align="center">
+
+### 🤝 HAVE A PROJECT IN MIND?
+
+<p>
+I'm open to freelance projects, collaborations and
+interesting product ideas.
+</p>
+
+<br/>
+
+<a href="mailto:sivasj0225@gmail.com">
+<img src="https://img.shields.io/badge/📩%20START%20A%20PROJECT-38BDF8?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech">
+<img src="https://img.shields.io/badge/💻%20VIEW%20MY%20WORK-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<p align="center">
+<strong>BUILD SOMETHING GREAT. 🚀</strong>
+</p>

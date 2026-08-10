@@ -496,3 +496,205 @@ MEASURE
 OPTIMIZE
   </a>
 </p>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  PROJECT 02 — BUGTRACKER PRO                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:111827,50:7F1D1D,100:EF4444&text=BUGTRACKER%20PRO&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=F87171&center=true&vCenter=true&width=400&lines=BUG+DISCOVERY;ISSUE+TRACKING;TEAM+WORKFLOW;QUALITY+VISIBILITY;DEFECT+LIFECYCLE" />
+
+</td>
+
+<td width="58%" valign="middle">
+
+<h1>🐞 BugTracker Pro</h1>
+
+<h3>Enterprise Bug Tracking & Engineering Platform</h3>
+
+<br/>
+
+<p>
+<strong>BugTracker Pro</strong> is a modern issue management platform
+designed to help engineering teams capture, organize, assign and track
+software defects throughout their lifecycle.
+</p>
+
+<br/>
+
+<table>
+
+<tr>
+<td>🐞 Bug Tracking</td>
+<td>📋 Project Management</td>
+</tr>
+
+<tr>
+<td>👥 Team Workflow</td>
+<td>📊 Analytics Dashboard</td>
+</tr>
+
+<tr>
+<td>🔐 Role-Based Access</td>
+<td>🔄 Issue Lifecycle</td>
+</tr>
+
+</table>
+
+<br/>
+
+<strong>Built With</strong>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5"/>
+
+</p>
+
+<br/>
+
+<a href="https://github.com/sivaprakashtech/BugTracker-Pro">
+
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🧪 THE DEFECT LIFECYCLE
+
+```text
+DISCOVER
+   ↓
+REPORT
+   ↓
+ASSIGN
+   ↓
+INVESTIGATE
+   ↓
+FIX
+   ↓
+RETEST
+   ↓
+REGRESSION
+   ↓
+RESOLVE
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT 03 — TESTVAULT                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="middle">
+
+<h1>🧪 TestVault</h1>
+
+<h3>Enterprise QA Test Management Platform</h3>
+
+<br/>
+
+<p>
+<strong>TestVault</strong> is a professional QA management platform
+designed to organize test cases, execute test runs, track results and
+manage software testing workflows from a centralized workspace.
+</p>
+
+<br/>
+
+<table>
+
+<tr>
+<td>📋 Test Case Management</td>
+<td>▶️ Test Execution</td>
+</tr>
+
+<tr>
+<td>📊 Result Tracking</td>
+<td>🐞 Defect Management</td>
+</tr>
+
+<tr>
+<td>📑 QA Reports</td>
+<td>🔄 Regression Workflows</td>
+</tr>
+
+</table>
+
+<br/>
+
+<strong>Built With</strong>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js&perline=6"/>
+
+</p>
+
+<br/>
+
+<a href="https://testvault-02i7.onrender.com">
+
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-10B981?style=for-the-badge"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/TestVault">
+
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:052E2B,50:047857,100:10B981&text=TESTVAULT&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=34D399&center=true&vCenter=true&width=400&lines=TEST+CASES;TEST+EXECUTION;RESULT+TRACKING;QA+REPORTS;RELEASE+CONFIDENCE" />
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🔬 THE QA WORKFLOW
+
+```text
+PLAN
+  ↓
+DESIGN
+  ↓
+EXECUTE
+  ↓
+CAPTURE RESULTS
+  ↓
+REPORT DEFECTS
+  ↓
+RETEST
+  ↓
+REGRESSION
+  ↓
+RELEASE

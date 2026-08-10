@@ -229,236 +229,241 @@ Node.js
 
 🚀 Advanced React Patterns
 
-💼 Featured Enterprise Projects
+<h2 align="center">🚀 PROJECTS</h2>
 
-📶 WiFi Analyzer Pro ⭐⭐⭐⭐⭐
+<p align="center">
+  <i>A collection of real-world products, platforms and engineering projects I've built, tested and shipped.</i>
+</p>
 
-Enterprise WiFi Monitoring & Network Diagnostics Platform
+<br/>
 
-Professional enterprise-grade WiFi monitoring platform built using React, Flask and Python featuring real-time analytics, signal analysis, speed testing, network diagnostics and reporting.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 01 — GROWTHPILOT AI -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🚀 Features
+<h2>🤖 GrowthPilot AI</h2>
 
-📡 WiFi Scanner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI-Powered+Marketing+Intelligence+Platform;Campaigns+%7C+SEO+%7C+Analytics+%7C+CRM+%7C+AI+Assistant;Built+for+modern+marketing+teams" />
+</p>
 
-📶 Signal Analyzer
+<p>
+  <strong>GrowthPilot AI</strong> is a modern AI-powered marketing intelligence
+  platform designed to bring campaigns, SEO, content, analytics, CRM and
+  AI-assisted decision making into one unified workspace.
+</p>
 
-⚡ Internet Speed Test
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-🌐 Network Diagnostics
+<p align="center">
 
-📊 Analytics Dashboard
+<a href="https://growthpilot-ai-mu.vercel.app">
+<img src="https://img.shields.io/badge/🔴_LIVE_DEMO-FF3366?style=for-the-badge"/>
+</a>
 
-📈 Real-Time Charts
+<a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-📑 Reports Module
+</p>
 
-⚙️ Settings Management
+---
 
-🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 02 — BUGTRACKER PRO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-React • Flask • Python • SQLite • REST API • Vite • Tailwind CSS
+<h2>🐞 BugTracker Pro</h2>
 
-🌐 Live Demo
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Enterprise+Bug+Tracking+Platform;Issues+%7C+Projects+%7C+Teams+%7C+Analytics;Built+for+engineering+and+QA+teams" />
+</p>
 
-https://wi-fi-analyzer-pro.vercel.app
+<p>
+  <strong>BugTracker Pro</strong> is an enterprise-style bug tracking and
+  QA management platform designed to help engineering teams manage issues,
+  projects, collaboration, analytics and software quality workflows.
+</p>
 
-💻 GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise-FF4D6D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-https://github.com/sivaprakashtech/WiFi-Analyzer-Pro
+<p align="center">
 
-🛒 ShopFlow Pro ⭐⭐⭐⭐⭐
+<a href="https://github.com/sivaprakashtech/BugTracker-Pro">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Enterprise Multi Vendor E-Commerce Platform
+</p>
 
-Modern enterprise commerce platform supporting multiple vendors, dashboards, authentication, analytics and inventory management.
+---
 
-🚀 Features
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 03 — TESTVAULT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Multi Vendor Marketplace
+<h2>🧪 TestVault</h2>
 
-Authentication
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Enterprise+QA+Test+Management+Platform;Test+Cases+%7C+Executions+%7C+Reports+%7C+QA+Workflows;Designed+for+professional+software+testing" />
+</p>
 
-Admin Dashboard
+<p>
+  <strong>TestVault</strong> is a professional QA test management platform
+  for organizing test cases, executing test runs, tracking results and
+  managing software quality activities from a centralized workspace.
+</p>
 
-Product Management
+<p align="center">
+  <img src="https://img.shields.io/badge/QA_PLATFORM-00C896?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-Analytics
+<p align="center">
 
-Orders
+<a href="https://testvault-02i7.onrender.com">
+<img src="https://img.shields.io/badge/🔴_LIVE_DEMO-FF3366?style=for-the-badge"/>
+</a>
 
-Reports
+<a href="https://github.com/sivaprakashtech/TestVault">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-🛠️ Tech Stack
+</p>
 
-Python • Flask • SQLite • HTML • CSS • JavaScript
+---
 
-🌐 Live Demo
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 04 — WIFI ANALYZER PRO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-https://shopflow-pro.onrender.com
+<h2>📶 WiFi Analyzer Pro</h2>
 
-💻 GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B8FF&center=true&vCenter=true&width=700&lines=Enterprise+WiFi+Monitoring+%26+Diagnostics;Signal+Analysis+%7C+Speed+Testing+%7C+Network+Diagnostics;Monitor+%E2%80%A2+Analyze+%E2%80%A2+Diagnose+%E2%80%A2+Optimize" />
+</p>
 
-https://github.com/sivaprakashtech/ShopFlow-Pro
+<p>
+  <strong>WiFi Analyzer Pro</strong> is an enterprise-oriented network
+  monitoring and diagnostics platform built for analysing WiFi performance,
+  signal quality, connectivity and network health.
+</p>
 
-🚀 DevForge ⭐⭐⭐⭐⭐
+<p align="center">
+  <img src="https://img.shields.io/badge/NETWORKING-00B8FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-Ultimate Developer Toolkit
+<p align="center">
 
-Complete developer productivity suite containing multiple professional developer tools.
+<a href="https://wi-fi-analyzer-pro.vercel.app">
+<img src="https://img.shields.io/badge/🔴_LIVE_DEMO-FF3366?style=for-the-badge"/>
+</a>
 
-🚀 Features
+<a href="https://github.com/sivaprakashtech/WiFi-Analyzer-Pro">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-JSON Formatter
+</p>
 
-Markdown Studio
+---
 
-Regex Tester
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 05 — DEVFORGE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-API Playground
+<h2>🛠️ DevForge</h2>
 
-Image Tools
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Ultimate+Developer+Productivity+Toolkit;JSON+%7C+Markdown+%7C+Regex+%7C+API+%7C+Image+%7C+Code+Tools;One+workspace+for+everyday+developer+utilities" />
+</p>
 
-Color Studio
+<p>
+  <strong>DevForge</strong> is a developer productivity workspace combining
+  essential engineering utilities such as JSON formatting, Markdown editing,
+  regex testing, API experimentation, image tools and code utilities.
+</p>
 
-Code Playground
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER_TOOLS-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-🛠️ Tech Stack
+<p align="center">
 
-React • TypeScript • Vite • Tailwind CSS
+<a href="https://dev-forge-drab.vercel.app">
+<img src="https://img.shields.io/badge/🔴_LIVE_DEMO-FF3366?style=for-the-badge"/>
+</a>
 
-🌐 Live Demo
+<a href="https://github.com/sivaprakashtech/DevForge">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-https://dev-forge-drab.vercel.app
+</p>
 
-💻 GitHub
+---
 
-https://github.com/sivaprakashtech/DevForge
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 06 — SHOPFLOW PRO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🏥 MediFlow Hospital Management System ⭐⭐⭐⭐
+<h2>🛒 ShopFlow Pro</h2>
 
-Enterprise Healthcare Management Platform
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF9F43&center=true&vCenter=true&width=700&lines=Enterprise+Multi-Vendor+E-Commerce+Platform;Products+%7C+Orders+%7C+Vendors+%7C+Analytics+%7C+Reports;Built+for+modern+digital+commerce" />
+</p>
 
-Modern hospital management software with patient management, appointments, billing and healthcare dashboards.
+<p>
+  <strong>ShopFlow Pro</strong> is a modern multi-vendor commerce platform
+  focused on product management, vendor operations, orders, analytics,
+  reporting and business workflows.
+</p>
 
-🚀 Features
+<p align="center">
+  <img src="https://img.shields.io/badge/E--COMMERCE-FF9F43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-Patient Management
+<p align="center">
 
-Doctors
+<a href="https://shopflow-pro.onrender.com">
+<img src="https://img.shields.io/badge/🔴_LIVE_DEMO-FF3366?style=for-the-badge"/>
+</a>
 
-Billing
+<a href="https://github.com/sivaprakashtech/ShopFlow-Pro">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Dashboard
+</p>
 
-Reports
+<br/>
 
-Analytics
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
-🛠️ Tech Stack
-
-React • TypeScript • Vite • Tailwind CSS
-
-🌐 Live Demo
-
-https://medi-flow-hospital-management-system.vercel.app
-
-💻 GitHub
-
-https://github.com/sivaprakashtech/MediFlow-Hospital-Management-System
-
-👨‍💼 Smart Attendance System ⭐⭐⭐⭐
-
-Enterprise Employee Attendance Platform
-
-Professional attendance management system for tracking employees and attendance records.
-
-🚀 Features
-
-Employee Dashboard
-
-Attendance Tracking
-
-Reports
-
-Analytics
-
-Admin Panel
-
-🛠️ Tech Stack
-
-React • TypeScript • Vite • Tailwind CSS
-
-🌐 Live Demo
-
-https://smart-attendance-system-red.vercel.app
-
-💻 GitHub
-
-https://github.com/sivaprakashtech/Smart-Attendance-System
-
-🤖 ResumeAI Pro ⭐⭐⭐⭐
-
-AI Powered Resume Builder
-
-Professional ATS Resume Builder powered by AI.
-
-🌐 Live Demo
-
-https://resumeai-pro-six.vercel.app
-
-💻 GitHub
-
-https://github.com/sivaprakashtech/resumeai-pro
-
-🧪 TestVault ⭐⭐⭐⭐
-
-Enterprise QA Test Management Platform
-
-Professional QA Management System for handling test cases, executions and reports.
-
-🌐 Live Demo
-
-https://testvault-02i7.onrender.com
-
-💻 GitHub
-
-https://github.com/sivaprakashtech/TestVault
-
-🐞 BugTracker Pro ⭐⭐⭐⭐
-
-Enterprise Bug Tracking Platform
-
-Modern issue tracking platform with analytics and role-based access.
-
-💻 GitHub
-
-https://github.com/sivaprakashtech/BugTracker-Pro
-
-🎨 LogoHub ⭐⭐⭐
-
-Brand Identity Platform
-
-Modern logo discovery and branding platform.
-
-🌐 Live Demo
-
-https://logohub-brand-platform.vercel.app
-
-💻 GitHub
-
-https://github.com/sivaprakashtech/logohub-brand-platform
-
-🍽️ DineFlow ⭐⭐⭐
-
-Restaurant Management System
-
-Professional restaurant management application.
-
-🌐 Live Demo
-
-https://dineflow-823v.onrender.com
-
+<p align="center">
+  <strong>⚡ Build. Test. Automate. Ship.</strong>
+</p>
 💻 GitHub
 
 https://github.com/sivaprakashtech/DineFlow

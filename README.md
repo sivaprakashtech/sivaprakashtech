@@ -391,125 +391,24 @@ with complete user experiences.
 
 # 🚀 FEATURED PROJECTS
 
-<p>
-  <i>Real products. Real deployments. Real engineering.</i>
-</p>
+<div align="center">
+
+<img src="./assets/projects/growthpilot.gif" width="90%">
 
 </div>
 
-<br/>
-
-# 🚀 PROJECTS
+<h2 align="center">🤖 GrowthPilot AI</h2>
 
 <p align="center">
-  <b>Real products. Real interfaces. Real deployments.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=600&lines=AI+MARKETING+INTELLIGENCE;CAMPAIGNS+%7C+SEO+%7C+ANALYTICS+%7C+CRM" />
 </p>
 
-<br>
-
-<div align="center">
-
-<img src="YOUR_GROWTHPILOT_GIF_OR_SCREENSHOT_URL" width="92%">
-
-</div>
-
-<h2>🤖 GrowthPilot AI</h2>
-
-> AI-powered marketing intelligence platform for campaigns, analytics, SEO, content and growth workflows.
-
-**Next.js · TypeScript · Supabase · OpenAI · Tailwind CSS**
-
-🔴 **[LIVE DEMO](https://growthpilot-ai-mu.vercel.app)**  
-💻 **[SOURCE CODE](https://github.com/sivaprakashtech/GrowthPilot-AI)**
-
----
-
-<div align="center">
-
-<img src="YOUR_BUGTRACKER_GIF_OR_SCREENSHOT_URL" width="92%">
-
-</div>
-
-<h2>🐞 BugTracker Pro</h2>
-
-> Engineering-focused issue management platform for tracking bugs, projects, teams and software quality.
-
-**React · Node.js · Express · MongoDB · Tailwind CSS**
-
-💻 **[SOURCE CODE](https://github.com/sivaprakashtech/BugTracker-Pro)**
-
----
-
-<div align="center">
-
-<img src="YOUR_TESTVAULT_GIF_OR_SCREENSHOT_URL" width="92%">
-
-</div>
-
-<h2>🧪 TestVault</h2>
-
-> Professional QA test management platform for test cases, executions, results and testing workflows.
-
-**Python · Flask · SQLite · JavaScript**
-
-🔴 **[LIVE DEMO](https://testvault-02i7.onrender.com)**  
-💻 **[SOURCE CODE](https://github.com/sivaprakashtech/TestVault)**
-
----
-
-<div align="center">
-
-<img src="YOUR_WIFI_ANALYZER_GIF_OR_SCREENSHOT_URL" width="92%">
-
-</div>
-
-<h2>📶 WiFi Analyzer Pro</h2>
-
-> Enterprise WiFi monitoring and network diagnostics platform with signal analysis, speed testing and analytics.
-
-**React · Flask · Python · SQLite · REST API · Vite**
-
-🔴 **[LIVE DEMO](https://wi-fi-analyzer-pro.vercel.app)**  
-💻 **[SOURCE CODE](https://github.com/sivaprakashtech/WiFi-Analyzer-Pro)**
-
----
-
-<div align="center">
-
-<img src="YOUR_DEVFORGE_GIF_OR_SCREENSHOT_URL" width="92%">
-
-</div>
-
-<h2>🛠️ DevForge</h2>
-
-> Developer productivity workspace bringing JSON, Markdown, Regex, API and other engineering utilities together.
-
-**React · TypeScript · Vite · Tailwind CSS**
-
-🔴 **[LIVE DEMO](https://dev-forge-drab.vercel.app)**  
-💻 **[SOURCE CODE](https://github.com/sivaprakashtech/DevForge)**
-
----
-
-<div align="center">
-
-<img src="YOUR_SHOPFLOW_GIF_OR_SCREENSHOT_URL" width="92%">
-
-</div>
-
-<h2>🛒 ShopFlow Pro</h2>
-
-> Multi-vendor e-commerce platform covering products, vendors, orders, analytics and business workflows.
-
-**Python · Flask · SQLite · JavaScript**
-
-🔴 **[LIVE DEMO](https://shopflow-pro.onrender.com)**  
-💻 **[SOURCE CODE](https://github.com/sivaprakashtech/ShopFlow-Pro)**
-
----
-
-<div align="center">
-
-### ⚡ BUILD • TEST • AUTOMATE • SHIP
-
-</div>
+<p align="center">
+  <a href="https://growthpilot-ai-mu.vercel.app">
+    🔴 <strong>LIVE DEMO</strong>
+  </a>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  <a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
+    💻 <strong>SOURCE CODE</strong>
+  </a>
+</p>

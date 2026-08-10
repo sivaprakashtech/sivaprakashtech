@@ -391,24 +391,108 @@ with complete user experiences.
 
 # 🚀 FEATURED PROJECTS
 
-<div align="center">
+<br/>
 
-<img src="./assets/projects/growthpilot.gif" width="90%">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   PROJECT 01 — GROWTHPILOT AI                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-</div>
+<table width="100%">
+<tr>
 
-<h2 align="center">🤖 GrowthPilot AI</h2>
+<td width="42%" align="center" valign="middle">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=600&lines=AI+MARKETING+INTELLIGENCE;CAMPAIGNS+%7C+SEO+%7C+ANALYTICS+%7C+CRM" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=GROWTHPILOT%20AI&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=400&lines=AI+ASSISTANT;MARKETING+INTELLIGENCE;CAMPAIGN+ANALYTICS;SEO+%2B+CONTENT;CRM+WORKFLOWS" />
+
+</td>
+
+<td width="58%" valign="middle">
+
+<h1>🤖 GrowthPilot AI</h1>
+
+<h3>AI-Powered Marketing Intelligence Platform</h3>
+
+<br/>
+
+<p>
+<strong>GrowthPilot AI</strong> is a modern AI-powered SaaS platform
+designed to bring marketing campaigns, SEO, content, analytics, CRM
+and AI-assisted workflows into one unified workspace.
 </p>
 
-<p align="center">
-  <a href="https://growthpilot-ai-mu.vercel.app">
-    🔴 <strong>LIVE DEMO</strong>
-  </a>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-  <a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
-    💻 <strong>SOURCE CODE</strong>
+<br/>
+
+<table>
+
+<tr>
+<td>🧠 AI Assistant</td>
+<td>🎯 Campaigns</td>
+</tr>
+
+<tr>
+<td>🔍 SEO Intelligence</td>
+<td>📊 Analytics</td>
+</tr>
+
+<tr>
+<td>✍️ Content Tools</td>
+<td>👥 CRM Workflows</td>
+</tr>
+
+</table>
+
+<br/>
+
+<strong>Built With</strong>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase&perline=5"/>
+
+</p>
+
+<br/>
+
+<a href="https://growthpilot-ai-mu.vercel.app">
+
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-06B6D4?style=for-the-badge"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
+
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🧠 THE GROWTH WORKFLOW
+
+```text
+DISCOVER
+   ↓
+ANALYZE
+   ↓
+PLAN
+   ↓
+CREATE
+   ↓
+LAUNCH
+   ↓
+MEASURE
+   ↓
+OPTIMIZE
   </a>
 </p>

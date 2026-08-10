@@ -1402,3 +1402,65 @@ If something here caught your attention, let's build something useful together.
 </sub>
 
 </p>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FINAL SIGNATURE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F172A,50:2563EB,100:06B6D4&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=BUILD.+TEST.+AUTOMATE.+SHIP.;KEEP+LEARNING.+KEEP+BUILDING.;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80"/>
+
+<br/>
+<br/>
+
+<h2>⚡ SIVA PRAKASH</h2>
+
+<p>
+<strong>QA Engineer • Software Builder • Automation Enthusiast</strong>
+</p>
+
+<br/>
+
+<p>
+
+<a href="https://github.com/sivaprakashtech">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/siva-prakash-p-8787992b1">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sivasj0225@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<br/>
+
+<sub>
+
+⭐ If you found something useful here, feel free to explore the projects.
+
+</sub>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sivaprakashtech&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square"/>
+
+<br/>
+<br/>
+
+<sub>
+© Siva Prakash • Built with curiosity, code and continuous improvement.
+</sub>
+
+</div>

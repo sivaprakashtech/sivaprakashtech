@@ -586,3 +586,132 @@ RETEST
 REGRESSION
    ↓
 RESOLVE
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT 03 — TESTVAULT                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="middle">
+
+<h1>🧪 TestVault</h1>
+
+<h3>Enterprise QA Test Management Platform</h3>
+
+<br/>
+
+<p>
+<strong>TestVault</strong> is a professional QA management platform built
+to organize test cases, execute test runs, track results and bring
+software testing workflows into one structured workspace.
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td>📋 Test Cases</td>
+<td>▶️ Test Execution</td>
+</tr>
+<tr>
+<td>📊 Test Results</td>
+<td>🐞 Defect Tracking</td>
+</tr>
+<tr>
+<td>📑 QA Reports</td>
+<td>🔄 Regression</td>
+</tr>
+</table>
+
+<br/>
+
+<strong>Built With</strong>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js&perline=6"/>
+</p>
+
+<br/>
+
+<a href="https://testvault-02i7.onrender.com">
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-00C6FF?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/TestVault">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:052E2B,50:047857,100:10B981&text=TESTVAULT&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=800&color=34D399&center=true&vCenter=true&width=400&lines=TEST+CASES;TEST+EXECUTION;RESULT+TRACKING;QA+REPORTS;RELEASE+CONFIDENCE" />
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🔬 QA WORKFLOW
+
+<table>
+<tr>
+
+<td align="center">📋<br/><strong>PLAN</strong></td>
+<td>→</td>
+<td align="center">🧪<br/><strong>DESIGN</strong></td>
+<td>→</td>
+<td align="center">▶️<br/><strong>EXECUTE</strong></td>
+<td>→</td>
+<td align="center">📊<br/><strong>RESULT</strong></td>
+<td>→</td>
+<td align="center">🐞<br/><strong>DEFECT</strong></td>
+<td>→</td>
+<td align="center">🔄<br/><strong>RETEST</strong></td>
+<td>→</td>
+<td align="center">✅<br/><strong>RELEASE</strong></td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=750&lines=PLAN+THE+TEST;EXECUTE+THE+TEST;CAPTURE+THE+RESULT;IMPROVE+THE+QUALITY" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`03 / 06`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> **Structured testing. Better visibility. Higher confidence.**
+
+</div>
+
+---

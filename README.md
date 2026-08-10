@@ -390,23 +390,27 @@ with complete user experiences.
 <div align="center">
 
 # 🚀 FEATURED PROJECTS
+<h1 align="center">🚀 FEATURED PROJECTS</h1>
+
+<p align="center">
+  <i>Selected products, platforms and engineering projects built across AI, QA, networking, developer tools and commerce.</i>
+</p>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PROJECT 01 — GROWTHPILOT AI                  -->
+<!-- PROJECT 01 — GROWTHPILOT AI -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
 <tr>
-
 <td width="42%" align="center" valign="middle">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=GROWTHPILOT%20AI&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=400&lines=AI+ASSISTANT;MARKETING+INTELLIGENCE;CAMPAIGN+ANALYTICS;SEO+%2B+CONTENT;CRM+WORKFLOWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=400&lines=AI+ASSISTANT;MARKETING+INTELLIGENCE;CAMPAIGN+ANALYTICS;SEO+%2B+CONTENT;CRM+WORKFLOWS"/>
 
 </td>
 
@@ -416,91 +420,76 @@ with complete user experiences.
 
 <h3>AI-Powered Marketing Intelligence Platform</h3>
 
-<br/>
-
 <p>
-<strong>GrowthPilot AI</strong> is a modern AI-powered SaaS platform
-designed to bring marketing campaigns, SEO, content, analytics, CRM
-and AI-assisted workflows into one unified workspace.
+<strong>GrowthPilot AI</strong> is a modern AI-powered SaaS platform bringing
+marketing campaigns, SEO, content, analytics, CRM and AI-assisted workflows
+into one unified workspace.
 </p>
 
-<br/>
-
-<table>
-
-<tr>
-<td>🧠 AI Assistant</td>
-<td>🎯 Campaigns</td>
-</tr>
-
-<tr>
-<td>🔍 SEO Intelligence</td>
-<td>📊 Analytics</td>
-</tr>
-
-<tr>
-<td>✍️ Content Tools</td>
-<td>👥 CRM Workflows</td>
-</tr>
-
-</table>
-
-<br/>
-
-<strong>Built With</strong>
+<p>
+🧠 <strong>AI Assistant</strong> &nbsp;•&nbsp;
+🎯 <strong>Campaigns</strong> &nbsp;•&nbsp;
+🔍 <strong>SEO Intelligence</strong>
+</p>
 
 <p>
+📊 <strong>Analytics</strong> &nbsp;•&nbsp;
+✍️ <strong>Content Tools</strong> &nbsp;•&nbsp;
+👥 <strong>CRM Workflows</strong>
+</p>
+
+<p><strong>Built With</strong></p>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase&perline=5"/>
 
-</p>
-
-<br/>
+<br/><br/>
 
 <a href="https://growthpilot-ai-mu.vercel.app">
-
 <img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-06B6D4?style=for-the-badge"/>
-
 </a>
 
 &nbsp;
 
 <a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
-
 <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-### 🧠 THE GROWTH WORKFLOW
+<h3>🧠 THE GROWTH WORKFLOW</h3>
 
-```text
-DISCOVER
-   ↓
-ANALYZE
-   ↓
-PLAN
-   ↓
-CREATE
-   ↓
-LAUNCH
-   ↓
-MEASURE
-   ↓
-OPTIMIZE
-  </a>
+<p align="center">
+<strong>DISCOVER</strong>
+&nbsp;→&nbsp;
+<strong>ANALYZE</strong>
+&nbsp;→&nbsp;
+<strong>PLAN</strong>
+&nbsp;→&nbsp;
+<strong>CREATE</strong>
+&nbsp;→&nbsp;
+<strong>LAUNCH</strong>
+&nbsp;→&nbsp;
+<strong>MEASURE</strong>
+&nbsp;→&nbsp;
+<strong>OPTIMIZE</strong>
 </p>
-<br/>
-<br/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=ONE+WORKSPACE+FOR+MODERN+GROWTH+TEAMS.;AI+%2B+MARKETING+%2B+ANALYTICS.;BUILDING+BETTER+GROWTH+WORKFLOWS."/>
+</p>
+
+<p align="center"><code>01 / 06</code></p>
+
+<p align="center"><i>One workspace for modern growth teams.</i></p>
+
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  PROJECT 02 — BUGTRACKER PRO                   -->
+<!-- PROJECT 02 — BUGTRACKER PRO -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
@@ -512,7 +501,7 @@ OPTIMIZE
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=F87171&center=true&vCenter=true&width=400&lines=BUG+DISCOVERY;ISSUE+TRACKING;TEAM+WORKFLOW;QUALITY+VISIBILITY;DEFECT+LIFECYCLE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=F87171&center=true&vCenter=true&width=400&lines=BUG+DISCOVERY;ISSUE+TRACKING;TEAM+WORKFLOW;QUALITY+VISIBILITY;DEFECT+LIFECYCLE"/>
 
 </td>
 
@@ -522,39 +511,25 @@ OPTIMIZE
 
 <h3>Enterprise Bug Tracking & Engineering Platform</h3>
 
-<br/>
-
 <p>
 <strong>BugTracker Pro</strong> is a modern issue management platform
 designed to help engineering teams capture, organize, assign and track
-software defects throughout their complete lifecycle.
-</p>
-
-<br/>
-
-<p>
-🐞 <strong>Bug Tracking</strong>
-&nbsp;&nbsp; • &nbsp;&nbsp;
-📋 <strong>Project Management</strong>
+software defects throughout their lifecycle.
 </p>
 
 <p>
+🐞 <strong>Bug Tracking</strong> &nbsp;•&nbsp;
+📋 <strong>Projects</strong> &nbsp;•&nbsp;
 👥 <strong>Team Workflow</strong>
-&nbsp;&nbsp; • &nbsp;&nbsp;
-📊 <strong>Analytics</strong>
 </p>
 
 <p>
-🔐 <strong>Role-Based Access</strong>
-&nbsp;&nbsp; • &nbsp;&nbsp;
+📊 <strong>Analytics</strong> &nbsp;•&nbsp;
+🔐 <strong>Role-Based Access</strong> &nbsp;•&nbsp;
 🔄 <strong>Issue Lifecycle</strong>
 </p>
 
-<br/>
-
-<strong>Built With</strong>
-
-<br/><br/>
+<p><strong>Built With</strong></p>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5"/>
 
@@ -565,37 +540,422 @@ software defects throughout their complete lifecycle.
 </a>
 
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-### 🧪 THE DEFECT LIFECYCLE
+<h3>🧪 THE DEFECT LIFECYCLE</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=F87171&center=true&vCenter=true&width=700&lines=DISCOVER+%E2%86%92+REPORT+%E2%86%92+ASSIGN;INVESTIGATE+%E2%86%92+FIX+%E2%86%92+RETEST;REGRESSION+%E2%86%92+RESOLVE" />
-
+<strong>DISCOVER</strong>
+&nbsp;→&nbsp;
+<strong>REPORT</strong>
+&nbsp;→&nbsp;
+<strong>ASSIGN</strong>
+&nbsp;→&nbsp;
+<strong>INVESTIGATE</strong>
+&nbsp;→&nbsp;
+<strong>FIX</strong>
+&nbsp;→&nbsp;
+<strong>RETEST</strong>
+&nbsp;→&nbsp;
+<strong>REGRESSION</strong>
+&nbsp;→&nbsp;
+<strong>RESOLVE</strong>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=720&lines=FIND+THE+PROBLEM.;UNDERSTAND+THE+ROOT+CAUSE.;FIX+THE+DEFECT.;VERIFY+THE+SOLUTION.;SHIP+WITH+CONFIDENCE."/>
+</p>
+
+<p align="center"><code>02 / 06</code></p>
+
+<p align="center"><i>Find it. Track it. Fix it. Ship it.</i></p>
+
+<hr/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECT 03 — TESTVAULT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="middle">
+
+<h1>🧪 TestVault</h1>
+
+<h3>Enterprise QA Test Management Platform</h3>
+
+<p>
+<strong>TestVault</strong> is a professional QA management platform
+designed to organize test cases, execute test runs, track results and
+manage software testing workflows from a centralized workspace.
+</p>
+
+<p>
+📋 <strong>Test Cases</strong> &nbsp;•&nbsp;
+▶️ <strong>Test Execution</strong> &nbsp;•&nbsp;
+📊 <strong>Result Tracking</strong>
+</p>
+
+<p>
+🐞 <strong>Defect Management</strong> &nbsp;•&nbsp;
+📑 <strong>QA Reports</strong> &nbsp;•&nbsp;
+🔄 <strong>Regression Workflows</strong>
+</p>
+
+<p><strong>Built With</strong></p>
+
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js&perline=6"/>
+
+<br/><br/>
+
+<a href="https://testvault-02i7.onrender.com">
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-10B981?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/TestVault">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:052E2B,50:047857,100:10B981&text=TESTVAULT&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=34D399&center=true&vCenter=true&width=400&lines=TEST+CASES;TEST+EXECUTION;RESULT+TRACKING;QA+REPORTS;RELEASE+CONFIDENCE"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
+<h3>🔬 THE QA WORKFLOW</h3>
 
-```text
-DISCOVER
-   ↓
-REPORT
-   ↓
-ASSIGN
-   ↓
-INVESTIGATE
-   ↓
-FIX
-   ↓
-RETEST
-   ↓
-REGRESSION
-   ↓
-RESOLVE
+<p align="center">
+<strong>PLAN</strong>
+&nbsp;→&nbsp;
+<strong>DESIGN</strong>
+&nbsp;→&nbsp;
+<strong>EXECUTE</strong>
+&nbsp;→&nbsp;
+<strong>CAPTURE</strong>
+&nbsp;→&nbsp;
+<strong>REPORT</strong>
+&nbsp;→&nbsp;
+<strong>RETEST</strong>
+&nbsp;→&nbsp;
+<strong>REGRESSION</strong>
+&nbsp;→&nbsp;
+<strong>RELEASE</strong>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=720&lines=PLAN+THE+TEST.;EXECUTE+THE+TEST.;CAPTURE+THE+RESULT.;IMPROVE+THE+QUALITY.;SHIP+WITH+CONFIDENCE."/>
+</p>
+
+<p align="center"><code>03 / 06</code></p>
+
+<p align="center"><i>Structured testing. Better visibility. Higher confidence.</i></p>
+
+<hr/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECT 04 — WIFI ANALYZER PRO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:082F49,50:0369A1,100:06B6D4&text=WIFI%20ANALYZER%20PRO&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=400&lines=WIFI+SCANNING;SIGNAL+ANALYSIS;SPEED+TESTING;NETWORK+DIAGNOSTICS;PERFORMANCE+MONITORING"/>
+
+</td>
+
+<td width="58%" valign="middle">
+
+<h1>📶 WiFi Analyzer Pro</h1>
+
+<h3>Enterprise WiFi Monitoring & Network Diagnostics Platform</h3>
+
+<p>
+<strong>WiFi Analyzer Pro</strong> is a professional network monitoring
+platform built to analyze WiFi conditions, signal quality, connectivity,
+network performance and diagnostics through a centralized dashboard.
+</p>
+
+<p>
+📡 <strong>WiFi Scanner</strong> &nbsp;•&nbsp;
+📶 <strong>Signal Analyzer</strong> &nbsp;•&nbsp;
+⚡ <strong>Speed Test</strong>
+</p>
+
+<p>
+🌐 <strong>Diagnostics</strong> &nbsp;•&nbsp;
+📊 <strong>Analytics</strong> &nbsp;•&nbsp;
+📈 <strong>Monitoring</strong>
+</p>
+
+<p>
+📑 <strong>Reports</strong> &nbsp;•&nbsp;
+⚙️ <strong>Settings</strong>
+</p>
+
+<p><strong>Built With</strong></p>
+
+<img src="https://skillicons.dev/icons?i=react,python,flask,sqlite,vite,tailwind&perline=6"/>
+
+<br/><br/>
+
+<a href="https://wi-fi-analyzer-pro.vercel.app">
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-06B6D4?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/WiFi-Analyzer-Pro">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>📡 THE NETWORK DIAGNOSTICS FLOW</h3>
+
+<p align="center">
+<strong>SCAN</strong>
+&nbsp;→&nbsp;
+<strong>DISCOVER</strong>
+&nbsp;→&nbsp;
+<strong>MEASURE</strong>
+&nbsp;→&nbsp;
+<strong>ANALYZE</strong>
+&nbsp;→&nbsp;
+<strong>DIAGNOSE</strong>
+&nbsp;→&nbsp;
+<strong>VISUALIZE</strong>
+&nbsp;→&nbsp;
+<strong>OPTIMIZE</strong>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=MONITOR+THE+NETWORK.;MEASURE+THE+PERFORMANCE.;UNDERSTAND+THE+SIGNAL.;FIND+THE+PROBLEM.;OPTIMIZE+THE+EXPERIENCE."/>
+</p>
+
+<p align="center"><code>04 / 06</code></p>
+
+<p align="center"><i>Monitor. Analyze. Diagnose. Optimize.</i></p>
+
+<hr/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECT 05 — DEVFORGE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="middle">
+
+<h1>🛠️ DevForge</h1>
+
+<h3>Ultimate Developer Productivity Toolkit</h3>
+
+<p>
+<strong>DevForge</strong> is a developer-focused workspace that brings
+frequently used engineering utilities into one fast, practical and
+modern toolkit.
+</p>
+
+<p>
+🧩 <strong>JSON Formatter</strong> &nbsp;•&nbsp;
+📝 <strong>Markdown Studio</strong>
+</p>
+
+<p>
+🔍 <strong>Regex Tester</strong> &nbsp;•&nbsp;
+🔌 <strong>API Playground</strong>
+</p>
+
+<p>
+🎨 <strong>Image Tools</strong> &nbsp;•&nbsp;
+🌈 <strong>Color Studio</strong> &nbsp;•&nbsp;
+💻 <strong>Code Playground</strong>
+</p>
+
+<p><strong>Built With</strong></p>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind&perline=4"/>
+
+<br/><br/>
+
+<a href="https://dev-forge-drab.vercel.app">
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-8B5CF6?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/DevForge">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:1E1B4B,50:6D28D9,100:8B5CF6&text=DEVFORGE&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=400&lines=DEVELOPER+TOOLS;JSON+%2B+REGEX;API+PLAYGROUND;MARKDOWN+STUDIO;BUILD+FASTER"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>⚙️ THE DEVELOPER WORKFLOW</h3>
+
+<p align="center">
+<strong>WRITE</strong>
+&nbsp;→&nbsp;
+<strong>FORMAT</strong>
+&nbsp;→&nbsp;
+<strong>TEST</strong>
+&nbsp;→&nbsp;
+<strong>DEBUG</strong>
+&nbsp;→&nbsp;
+<strong>OPTIMIZE</strong>
+&nbsp;→&nbsp;
+<strong>SHIP</strong>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=BUILD+FASTER.;DEBUG+SMARTER.;AUTOMATE+REPETITIVE+WORK.;KEEP+YOUR+TOOLS+IN+ONE+PLACE."/>
+</p>
+
+<p align="center"><code>05 / 06</code></p>
+
+<p align="center"><i>Less tool switching. More building.</i></p>
+
+<hr/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECT 06 — SHOPFLOW PRO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:172554,50:1D4ED8,100:3B82F6&text=SHOPFLOW%20PRO&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=400&lines=MULTI+VENDOR;PRODUCT+MANAGEMENT;ORDER+WORKFLOW;BUSINESS+ANALYTICS;COMMERCE+OPERATIONS"/>
+
+</td>
+
+<td width="58%" valign="middle">
+
+<h1>🛒 ShopFlow Pro</h1>
+
+<h3>Enterprise Multi-Vendor E-Commerce Platform</h3>
+
+<p>
+<strong>ShopFlow Pro</strong> is a modern commerce platform focused on
+multi-vendor operations, product management, orders, analytics and
+business workflows through a centralized platform.
+</p>
+
+<p>
+🏪 <strong>Multi-Vendor Marketplace</strong> &nbsp;•&nbsp;
+📦 <strong>Product Management</strong>
+</p>
+
+<p>
+🛒 <strong>Orders</strong> &nbsp;•&nbsp;
+📊 <strong>Analytics</strong> &nbsp;•&nbsp;
+📑 <strong>Reports</strong>
+</p>
+
+<p>
+🔐 <strong>Authentication</strong> &nbsp;•&nbsp;
+⚙️ <strong>Business Operations</strong>
+</p>
+
+<p><strong>Built With</strong></p>
+
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js&perline=6"/>
+
+<br/><br/>
+
+<a href="https://shopflow-pro.onrender.com">
+<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-3B82F6?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sivaprakashtech/ShopFlow-Pro">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>🛒 THE COMMERCE WORKFLOW</h3>
+
+<p align="center">
+<strong>DISCOVER</strong>
+&nbsp;→&nbsp;
+<strong>SELECT</strong>
+&nbsp;→&nbsp;
+<strong>CART</strong>
+&nbsp;→&nbsp;
+<strong>ORDER</strong>
+&nbsp;→&nbsp;
+<strong>PROCESS</strong>
+&nbsp;→&nbsp;
+<strong>DELIVER</strong>
+&nbsp;→&nbsp;
+<strong>ANALYZE</strong>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=PRODUCTS.;ORDERS.;VENDORS.;ANALYTICS.;GROWTH."/>
+</p>
+
+<p align="center"><code>06 / 06</code></p>
+
+<p align="center"><i>Products. Orders. Vendors. Growth.</i></p>
+
+<hr/>
+
+<p align="center">
+<strong>⚡ Six products. One engineering mindset.</strong>
+</p>
+
+<p align="center">
+<sub>AI • SaaS • QA • Networking • Developer Tools • Commerce</sub>
+</p>

@@ -399,193 +399,117 @@ with complete user experiences.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROJECT 01 — GROWTHPILOT                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# 🚀 PROJECTS
 
-<table width="100%">
-<tr>
-
-<td width="58%" valign="middle">
-
-<h1>🤖 GrowthPilot AI</h1>
-
-<h3>AI-Powered Marketing Intelligence Platform</h3>
-
-<br/>
-
-<p>
-<strong>GrowthPilot AI</strong> is a modern SaaS platform designed to bring
-AI assistance, marketing workflows, analytics, SEO, content, campaigns and
-CRM capabilities into one unified workspace.
+<p align="center">
+  <b>Real products. Real interfaces. Real deployments.</b>
 </p>
 
-<br/>
-
-<table>
-<tr>
-<td>🧠 AI Assistant</td>
-<td>📊 Analytics</td>
-</tr>
-<tr>
-<td>🎯 Campaigns</td>
-<td>🔍 SEO</td>
-</tr>
-<tr>
-<td>✍️ Content</td>
-<td>👥 CRM</td>
-</tr>
-</table>
-
-<br/>
-
-<strong>Built With</strong>
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase&perline=5"/>
-</p>
-
-<br/>
-
-<a href="https://growthpilot-ai-mu.vercel.app">
-<img src="https://img.shields.io/badge/🔴%20LIVE%20DEMO-00C6FF?style=for-the-badge"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/sivaprakashtech/GrowthPilot-AI">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=GROWTHPILOT%20AI&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=400&lines=AI+ASSISTANT;MARKETING+ANALYTICS;SEO+%2B+CONTENT;CAMPAIGNS+%2B+CRM" />
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+<br>
 
 <div align="center">
 
-`01 / 06`
+<img src="YOUR_GROWTHPILOT_GIF_OR_SCREENSHOT_URL" width="92%">
 
 </div>
 
-<br/>
+<h2>🤖 GrowthPilot AI</h2>
 
-<div align="center">
+> AI-powered marketing intelligence platform for campaigns, analytics, SEO, content and growth workflows.
 
-> **One workspace for modern growth teams.**
+**Next.js · TypeScript · Supabase · OpenAI · Tailwind CSS**
 
-</div>
+🔴 **[LIVE DEMO](https://growthpilot-ai-mu.vercel.app)**  
+💻 **[SOURCE CODE](https://github.com/sivaprakashtech/GrowthPilot-AI)**
 
 ---
 
-> **I don't build projects just to add them to a list. I build them to solve problems.**
+<div align="center">
+
+<img src="YOUR_BUGTRACKER_GIF_OR_SCREENSHOT_URL" width="92%">
 
 </div>
 
+<h2>🐞 BugTracker Pro</h2>
+
+> Engineering-focused issue management platform for tracking bugs, projects, teams and software quality.
+
+**React · Node.js · Express · MongoDB · Tailwind CSS**
+
+💻 **[SOURCE CODE](https://github.com/sivaprakashtech/BugTracker-Pro)**
+
 ---
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  PROJECT 02 — BUGTRACKER PRO                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<table width="100%">
-<tr>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:111827,50:7F1D1D,100:EF4444&text=BUGTRACKER%20PRO&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=F87171&center=true&vCenter=true&width=400&lines=BUG+DISCOVERY;ISSUE+TRACKING;TEAM+WORKFLOW;QUALITY+VISIBILITY" />
-
-</td>
-
-<td width="58%" valign="middle">
-
-<h1>🐞 BugTracker Pro</h1>
-
-<h3>Enterprise Bug Tracking & Engineering Platform</h3>
-
-<br/>
-
-<p>
-<strong>BugTracker Pro</strong> is a modern issue management platform
-designed to help engineering teams capture, organize, assign and track
-software defects throughout their lifecycle.
-</p>
-
-<br/>
-
-<table>
-<tr>
-<td>🐞 Bug Tracking</td>
-<td>📋 Projects</td>
-</tr>
-<tr>
-<td>👥 Team Workflow</td>
-<td>📊 Analytics</td>
-</tr>
-<tr>
-<td>🔐 Role-Based Access</td>
-<td>🔄 Issue Lifecycle</td>
-</tr>
-</table>
-
-<br/>
-
-<strong>Built With</strong>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5"/>
-</p>
-
-<br/>
-
-<a href="https://github.com/sivaprakashtech/BugTracker-Pro">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
 
 <div align="center">
 
-### 🧪 THE DEFECT LIFECYCLE
+<img src="YOUR_TESTVAULT_GIF_OR_SCREENSHOT_URL" width="92%">
 
-```text
-DISCOVER
-   ↓
-REPORT
-   ↓
-ASSIGN
-   ↓
-INVESTIGATE
-   ↓
-FIX
-   ↓
-RETEST
-   ↓
-REGRESSION
-   ↓
-RESOLVE
+</div>
 
-<br/>
+<h2>🧪 TestVault</h2>
 
+> Professional QA test management platform for test cases, executions, results and testing workflows.
+
+**Python · Flask · SQLite · JavaScript**
+
+🔴 **[LIVE DEMO](https://testvault-02i7.onrender.com)**  
+💻 **[SOURCE CODE](https://github.com/sivaprakashtech/TestVault)**
+
+---
+
+<div align="center">
+
+<img src="YOUR_WIFI_ANALYZER_GIF_OR_SCREENSHOT_URL" width="92%">
+
+</div>
+
+<h2>📶 WiFi Analyzer Pro</h2>
+
+> Enterprise WiFi monitoring and network diagnostics platform with signal analysis, speed testing and analytics.
+
+**React · Flask · Python · SQLite · REST API · Vite**
+
+🔴 **[LIVE DEMO](https://wi-fi-analyzer-pro.vercel.app)**  
+💻 **[SOURCE CODE](https://github.com/sivaprakashtech/WiFi-Analyzer-Pro)**
+
+---
+
+<div align="center">
+
+<img src="YOUR_DEVFORGE_GIF_OR_SCREENSHOT_URL" width="92%">
+
+</div>
+
+<h2>🛠️ DevForge</h2>
+
+> Developer productivity workspace bringing JSON, Markdown, Regex, API and other engineering utilities together.
+
+**React · TypeScript · Vite · Tailwind CSS**
+
+🔴 **[LIVE DEMO](https://dev-forge-drab.vercel.app)**  
+💻 **[SOURCE CODE](https://github.com/sivaprakashtech/DevForge)**
+
+---
+
+<div align="center">
+
+<img src="YOUR_SHOPFLOW_GIF_OR_SCREENSHOT_URL" width="92%">
+
+</div>
+
+<h2>🛒 ShopFlow Pro</h2>
+
+> Multi-vendor e-commerce platform covering products, vendors, orders, analytics and business workflows.
+
+**Python · Flask · SQLite · JavaScript**
+
+🔴 **[LIVE DEMO](https://shopflow-pro.onrender.com)**  
+💻 **[SOURCE CODE](https://github.com/sivaprakashtech/ShopFlow-Pro)**
+
+---
+
+<div align="center">
+
+### ⚡ BUILD • TEST • AUTOMATE • SHIP
+
+</div>
